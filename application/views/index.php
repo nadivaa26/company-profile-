@@ -948,7 +948,7 @@ Maliki Edulogi Nusantara
       <div class="col-md-2 col-sm-6 col-6 mb-4">
         <h6 class="text-gradient text-primary text-sm">Hubungi Kami</h6>
         <ul class="nav flex-column align-items-center">
-          <li class="nav-item"><a class="nav-link" href="#kontak">Kontak</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Kontak</a></li>
           <li class="nav-item"><a class="nav-link" href="#kontak">Pusat Bantuan</a></li>
           <li class="nav-item"><a class="nav-link" href="mailto:malikiedulogi@gmail.com">malikiedulogi@gmail.com</a></li>
         </ul>
