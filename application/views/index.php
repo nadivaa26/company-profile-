@@ -926,82 +926,47 @@ Maliki Edulogi Nusantara
   </div>
 </section>
     
-  <footer class="footer pt-5 mt-5">
+ <footer class="footer pt-5 mt-5 text-center">
   <hr class="horizontal dark mb-5">
   <div class="container">
-    <div class=" row">
-      <div class="col-md-3 mb-4 ms-auto">
-        <div>
-          <h6 class="text-gradient text-primary font-weight-bolder">Maliki Edulogi Nusantara</h6>
-          <ul class="flex-column ms-n3 nav">
-           <p> Dengan pengalaman lebih dari 7 Tahun, kami berkomitmen memberikan layanan terbaik dan terpercaya untuk anda.</p>
-          </ul>
-        </div>
-        <div>
-           
-          </ul>
-        </div>
+    <div class="row justify-content-center">
+
+      <div class="col-md-3 mb-4">
+        <h6 class="text-gradient text-primary font-weight-bolder">Maliki Edulogi Nusantara</h6>
+        <p>Dengan pengalaman lebih dari 7 Tahun, kami berkomitmen memberikan layanan terbaik dan terpercaya untuk anda.</p>
       </div>
 
       <div class="col-md-2 col-sm-6 col-6 mb-4">
-        <div>
-          <h6 class="text-gradient text-primary text-sm">Perusahaan</h6>
-          <ul class="flex-column ms-n3 nav">
-             <li class="nav-item">
-              <a class="nav-link" href="#home" target="_blank">
-                Beranda
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="#service" target="_blank">
-                Layanan Kami
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="aktivitas" target="_blank">
-                Aktivitas
-              </a>
-            </li>
-          </ul>
-        </div>
+        <h6 class="text-gradient text-primary text-sm">Perusahaan</h6>
+        <ul class="nav flex-column align-items-center">
+          <li class="nav-item"><a class="nav-link" href="#home">Beranda</a></li>
+          <li class="nav-item"><a class="nav-link" href="#service">Layanan Kami</a></li>
+          <li class="nav-item"><a class="nav-link" href="aktivitas">Aktivitas</a></li>
+        </ul>
       </div>
 
       <div class="col-md-2 col-sm-6 col-6 mb-4">
-        <div>
-          <h6 class="text-gradient text-primary text-sm">Hubungi Kami</h6>
-          <ul class="flex-column ms-n3 nav">
-            <li class="nav-item">
-              <a class="nav-link" href="#kontak" target="_blank">
-                Kontak
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="#kontak" target="_blank">
-               Pusat Bantuan
-              </a>
-            </li>
-          <li class="nav-item">
-             <a class="nav-link" href="mailto:malikiedulogi@gmail.com"> malikiedulogi@gmail.com</a>
-              </a>
-            </li>
-
-          </ul>
-        </div>
+        <h6 class="text-gradient text-primary text-sm">Hubungi Kami</h6>
+        <ul class="nav flex-column align-items-center">
+          <li class="nav-item"><a class="nav-link" href="#kontak">Kontak</a></li>
+          <li class="nav-item"><a class="nav-link" href="#kontak">Pusat Bantuan</a></li>
+          <li class="nav-item"><a class="nav-link" href="mailto:malikiedulogi@gmail.com">malikiedulogi@gmail.com</a></li>
+        </ul>
       </div>
 
       <div class="col-12">
-        <div class="text-center">
-          <p class="my-4 text-sm">
-            All rights reserved. Copyright © <script>document.write(new Date().getFullYear())</script> Maliki Edulogi Nusantara by <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
-          </p>
-        </div>
+        <p class="my-4 text-sm">
+          All rights reserved. Copyright ©
+          <script>document.write(new Date().getFullYear())</script>
+          Maliki Edulogi Nusantara by 
+          <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+        </p>
       </div>
+
     </div>
   </div>
 </footer>
+
 
 <!--   Core JS Files   -->
 <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
