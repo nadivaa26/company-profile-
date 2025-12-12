@@ -893,9 +893,9 @@ Maliki Edulogi Nusantara
         <form role="form" id="contact-form" method="post" autocomplete="off">
           <div class="card-body">
             <div class="row">
-              <div class="col-md-6">
+              <div class="mb-4">
                 <label>Username</label>
-                <div class="input-group mb-4">
+                <div class="input-group">
                   <input class="form-control" placeholder="" aria-label="Username..." type="text" />
                 </div>
               </div>
