@@ -884,44 +884,78 @@ Maliki Edulogi Nusantara
 </section>
 </div>
     </div>
-          <!-- Form contact -->
+        <!-- Form contact -->
 <section id="contact">
   <div class="container py-4">
     <div class="row">
-      <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
-        <h3 class="text-center">Hubungi Kami</h3>
+
+      <!-- ==== FORM ==== -->
+      <div class="col-lg-7 d-flex justify-content-center flex-column">
+        <h3 class="text-center mb-4">Hubungi Kami</h3>
+
         <form role="form" id="contact-form" method="post" autocomplete="off">
           <div class="card-body">
-            <div class="row">
-              <div class="col-mb-4">
-                <label>Username</label>
-                <div class="input-group mb-4">
-                  <input class="form-control" placeholder="" aria-label="Username..." type="text" />
-                </div>
-              </div>
+
+            <div class="mb-4">
+              <label>Nama Lengkap</label>
+              <input class="form-control" type="text" placeholder="Masukkan nama lengkap Anda" />
             </div>
 
             <div class="mb-4">
               <label>Email</label>
-              <div class="input-group">
-                <input type="email" class="form-control" placeholder="" />
-              </div>
+              <input type="email" class="form-control" placeholder="Masukkan email Anda" />
             </div>
 
             <div class="form-group mb-4">
               <label>Pesan</label>
-              <textarea name="pesan" class="form-control" id="pesan" rows="4"></textarea>
+              <textarea name="pesan" class="form-control" id="pesan" rows="4" placeholder="Bagaimana kami dapat membantu Anda?"></textarea>
             </div>
 
-            <div class="row">
-              <div class="col-md-12">
-                <button type="submit" class="btn bg-gradient-dark w-100">Kirim</button>
-              </div>
+            <button type="submit" class="btn bg-gradient-dark w-100 mb-3">Kirim Pesan ✈️</button>
+
+            <!-- ==== BUTTON WHATSAPP ==== -->
+            <div class="text-center mt-2">
+              <a href="https://wa.me/6289654641336" target="_blank"
+                 class="btn btn-success w-100"
+                 style="border-radius: 12px; font-size: 16px; padding: 10px;">
+                Hubungi via WhatsApp 📱
+              </a>
             </div>
 
           </div>
         </form>
       </div>
+
+      <!-- ==== INFO KONTAK + MAP SAMPING ==== -->
+      <div class="col-lg-5">
+        <div class="row">
+
+          <!-- Informasi Kontak -->
+          <div class="col-12 mb-3">
+            <div class="p-3" style="background:#fff; border-radius:18px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+              <h5>Informasi Perusahaan</h5>
+              <p><strong>Telepon</strong><br> +6289654641336</p>
+              <p><strong>Email</strong><br> maliki.edulogi@gmail.com</p>
+              <p><strong>Alamat</strong><br> CV Maliki Edulogi Nusantara, Grand Kencana Residen Malang Blok B7 No. 15, Rekesan, Mendalanwangi, Kec. Wagir, Kabupaten Malang, Jawa Timur 65158</p>
+            </div>
+          </div>
+
+          <!-- Google Maps Embed -->
+          <div class="col-12">
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.303977792391!2d112.5877159!3d-8.028663599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd629a7ae322ba1%3A0x34d7ba85e5d44c12!2sCV.%20Maliki%20Edulogi%20Nusantara!5e0!3m2!1sid!2sid!4v1702387200000!5m2!1sid!2sid" 
+  width="100%" 
+  height="300" 
+  style="border:0;border-radius:12px;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+          </div>
+
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
