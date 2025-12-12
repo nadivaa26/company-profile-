@@ -941,7 +941,7 @@ Maliki Edulogi Nusantara
         <ul class="nav flex-column align-items-center">
           <li class="nav-item"><a class="nav-link" href="#home">Beranda</a></li>
           <li class="nav-item"><a class="nav-link" href="#service">Layanan Kami</a></li>
-          <li class="nav-item"><a class="nav-link" href="#produk kami">Produk Kami</a></li>
+          <li class="nav-item"><a class="nav-link" href="#produk">Produk Kami</a></li>
         </ul>
       </div>
 
