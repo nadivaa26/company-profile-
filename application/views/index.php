@@ -393,13 +393,9 @@ Maliki Edulogi Nusantara
 <!-- End Navbar -->
 </div></div></div>
 <header class="header-2">
-  <div class="page-header min-vh-75 relative" style="background-image: url('https://images.unsplash.com/photo-1445452916036-9022dfd33aa8?q=80&w=2973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')">
+ <div class="page-header min-vh-50 relative" style="background-image: url('./assets/img/bg-m.png')">
     <div class="container">
       <div class="row">
-        <div class="col-lg-7 text-center mx-auto">
-          <h1 class="text-white pt-3 mt-n5 text-dark">MALIKI EDULOGI NUSANTARA</h1>
-          <p class="lead text-white mt-3">Edukasi dan Teknologi untuk Membangun Negeri <br/> </p>
-        </div>
       </div>
     </div>
     <div class="position-absolute w-100 z-index-1 bottom-0">
@@ -428,10 +424,10 @@ Maliki Edulogi Nusantara
   <div class="p-3 text-center">
     <div style="display: flex; justify-content: center; margin-bottom: 8px;">
       <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none"><path fill="url(#SVGM0JdfeZV)" d="M24 5a6.5 6.5 0 1 0 0 13a6.5 6.5 0 0 0 0-13"/><path fill="url(#SVGIHdlMLge)" d="M9.5 9a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11"/><path fill="url(#SVGVJK0ubBZ)" d="M38.5 9a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11"/><path fill="url(#SVGFyfNjdba)" d="M30.478 21.818a3.25 3.25 0 0 0-3.98 2.298l-1.489 5.554a9 9 0 1 0 17.387 4.659l1.488-5.554a3.25 3.25 0 0 0-2.298-3.98z"/><path fill="url(#SVGb8y0xb1O)" d="M17.522 21.818a3.25 3.25 0 0 1 3.98 2.298l1.488 5.554a9 9 0 1 1-17.386 4.66l-1.489-5.554a3.25 3.25 0 0 1 2.299-3.98z"/><path fill="url(#SVGpuHNKb0b)" d="M18.25 21A3.25 3.25 0 0 0 15 24.25V32a9 9 0 1 0 18 0v-7.75A3.25 3.25 0 0 0 29.75 21z"/><defs><radialGradient id="SVGM0JdfeZV" cx="0" cy="0" r="1" gradientTransform="rotate(59.931 3.08 24.51)scale(8.11995)" gradientUnits="userSpaceOnUse"><stop offset=".339" stop-color="#3dcbff"/><stop offset="1" stop-color="#14b1ff"/></radialGradient><radialGradient id="SVGIHdlMLge" cx="0" cy="0" r="1" gradientTransform="rotate(47.573 -10.4 14.318)scale(9.01943)" gradientUnits="userSpaceOnUse"><stop stop-color="#008ce2"/><stop offset="1" stop-color="#0068c6"/></radialGradient><radialGradient id="SVGVJK0ubBZ" cx="0" cy="0" r="1" gradientTransform="rotate(78.837 11.016 28.388)scale(8.06859)" gradientUnits="userSpaceOnUse"><stop stop-color="#0078d4"/><stop offset="1" stop-color="#004695"/></radialGradient><radialGradient id="SVGFyfNjdba" cx="0" cy="0" r="1" gradientTransform="rotate(78.837 -.87 32.568)scale(14.1533)" gradientUnits="userSpaceOnUse"><stop stop-color="#0078d4"/><stop offset="1" stop-color="#004695"/></radialGradient><radialGradient id="SVGb8y0xb1O" cx="0" cy="0" r="1" gradientTransform="rotate(61.056 -14.804 18.71)scale(21.017 15.1281)" gradientUnits="userSpaceOnUse"><stop stop-color="#008ce2"/><stop offset="1" stop-color="#0068c6"/></radialGradient><radialGradient id="SVGpuHNKb0b" cx="0" cy="0" r="1" gradientTransform="rotate(62.478 -11.966 32.366)scale(12.1907 11.5211)" gradientUnits="userSpaceOnUse"><stop offset=".339" stop-color="#3dcbff"/><stop offset="1" stop-color="#14b1ff"/></radialGradient></defs></g></svg>
-</div>
-    <h1 class="text-gradient text-dark"><span id="state1" countTo="250">0</span>+</h1>
-    <h5 class="mt-3">Customer Puas</h5>
-</div>
+      </div>
+          <h1 class="text-gradient text-dark"><span id="state1" countTo="250">0</span>+</h1>
+          <h5 class="mt-3">Customer Puas</h5>
+      </div>
             <hr class="vertical dark">
           </div>
         <div class="col-md-4 position-relative">
@@ -490,67 +486,7 @@ Maliki Edulogi Nusantara
       </div>
     </div>
 
-    <!-- CARD VISI -->
-    <!-- <div class="row justify-content-center mb-4 reveal">
-      <div class="col-lg-9 z-index-2 mx-auto py-4 px-4 blur shadow-blur gradient-card rounded-4">
-        <div class="text-center">
-          <h3 class="text-gradient-dark mb-3">Visi Kami</h3>
-          <p class="text-sm">
-            Menjadi grup usaha yang unggul, terpercaya, dan berdaya saing tinggi
-            dalam bidang pengadaan barang dan jasa, dengan berorientasi pada
-            kualitas, inovasi, serta keberlanjutan.
-          </p>
-        </div>
-      </div>
-    </div>
-
- 
-    <div class="row justify-content-center g-4">
-      <div class="col-md-3">
-        <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Misi Kami</h4>
-          <p class="text-sm mt-2">
-            Memberikan layanan pengadaan barang dan jasa yang cepat, tepat,
-            dan profesional sesuai kebutuhan mitra.
-          </p>
-        </div>
-      </div> -->
-
-      <!-- <div class="col-md-3">
-        <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Misi Kami</h4>
-          <p class="text-sm mt-2">
-            Menyediakan produk dan jasa berkualitas terbaik untuk mendukung
-            operasional instansi, sekolah, dan pemerintah daerah.
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-3">
-        <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Misi Kami</h4>
-          <p class="text-sm mt-2">
-            Membangun hubungan kerja sama saling menguntungkan dengan
-            mengutamakan kepercayaan dan kepuasan pelanggan.
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-3">
-        <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Misi Kami</h4>
-          <p class="text-sm mt-2">
-            Terus berinovasi dalam pengembangan layanan untuk menjawab kebutuhan
-            dan tantangan masa depan secara berkelanjutan.
-          </p>
-        </div>
-      </div>
-    </div>
-
-  </div> -->
-  
   <div class="container">
-
     <div class="row justify-content-center mb-4 reveal">
       <div class="col-lg-9 z-index-2 mx-auto py-4 px-4 blur shadow-blur gradient-card rounded-4">
         <div class="text-center">
@@ -560,7 +496,6 @@ Maliki Edulogi Nusantara
     </div>
 
     <div class="row justify-content-center g-4">
-
       <div class="col-md-3">
         <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
           <h4 class="text-gradient-dark">Standar Kualitas Tinggi</h4>
@@ -712,7 +647,7 @@ Maliki Edulogi Nusantara
       </div>
       <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
           <div class="card card-background card-background-mask-dark tilt" data-tilt>
-            <div class="full-background" style="background-image: url('https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/team-working.jpg')"></div>
+            <div class="full-background" style="background-image: url('/assets/img/dummy1.png')"></div>
             <div class="card-body pt-7 text-center">
               <div class="icon icon-lg up mb-3 mt-3">
                 <svg width="50px" height="50px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -751,144 +686,77 @@ Maliki Edulogi Nusantara
         </div>
       </div>
     </div>
-  </div>
-  <div class="container mt-sm-5 mt-3">
-    <div class="row">
-      <div class="col-lg-3">
-        <div class="position-sticky pb-lg-5 pb-3 mt-lg-0 mt-5 ps-2" style="top: 100px">
-          <h3>Project Showcase</h3>
-          <h6 class="text-secondary font-weight-normal pe-3">Ini adalah dokumentasi singkat dari proyek yang telah kami selesaikan untuk berbagai klien. Kami menangani pengembangan website, aplikasi, serta layanan teknis dengan proses yang sistematis dan kualitas kerja yang konsisten.</h6>
-        </div>
-      </div>
-        <div class="col-lg-9">
-        <div class="row mt-3">
-          <!-- Dokumentasi Kegiatan -->
-<div class="col-12">
-  <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-    <div class="container border-bottom">
-      <div class="row justify-space-between py-2">
-        <div class="col-lg-3 me-auto">
-          <p class="lead text-dark pt-1 mb-0">Jasa Percetakan dan Digital Printing</p>
-        </div>
-    </div>
-       <div class="tab-content tab-space">
-      <div class="tab-pane active" id="preview-forms-simple">
-        <iframe class="w-100 height-600" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-          <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-          <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-          <!-- Nucleo Icons -->
-          <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-          <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-          <link id="pagestyle" href="https://demos.creative-tim.com/soft-ui-design-system/assets/css/soft-design-system.min.css?v=1.1.0" rel="stylesheet" />
-          <section>
-  <div class="container py-4">
-    <div class="row">
-      <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
-          <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
-          <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>
-          <script src="?v=1.1.0" type="text/javascript"></script>
-          '></iframe>
-      </div>
-                <p class="lead text-dark pt-1 mb-0">Jasa Maintenance Elektronik</p>
-        </div>
-    </div>
-       <div class="tab-content tab-space">
-      <div class="tab-pane active" id="preview-forms-simple">
-        <iframe class="w-100 height-600" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-          <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-          <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-          <!-- Nucleo Icons -->
-          <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-          <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-          <link id="pagestyle" href="https://demos.creative-tim.com/soft-ui-design-system/assets/css/soft-design-system.min.css?v=1.1.0" rel="stylesheet" />
-          <section>
-  <div class="container py-4">
-    <div class="row">
-      <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
-          <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
-          <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>
-          <script src="?v=1.1.0" type="text/javascript"></script>
-          '></iframe>
-      </div>
-      </div>
-                <p class="lead text-dark pt-1 mb-0">Jasa Software Development</p>
-        </div>
-    </div>
-       <div class="tab-content tab-space">
-      <div class="tab-pane active" id="preview-forms-simple">
-        <iframe class="w-100 height-600" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-          <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-          <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-          <!-- Nucleo Icons -->
-          <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-          <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-          <link id="pagestyle" href="https://demos.creative-tim.com/soft-ui-design-system/assets/css/soft-design-system.min.css?v=1.1.0" rel="stylesheet" />
-          <section>
-  <div class="container py-4">
-    <div class="row">
-      <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
-
-          <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
-          <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>
-          <script src="?v=1.1.0" type="text/javascript"></script>
-          '></iframe>
-      </div>
-       <p class="lead text-dark pt-1 mb-0">Jasa Periklanan Media Cetak dan Elektronik</p>
-        </div>
-    </div>
-       <div class="tab-content tab-space">
-      <div class="tab-pane active" id="preview-forms-simple">
-        <iframe class="w-100 height-600" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-          <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-          <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-          <!-- Nucleo Icons -->
-          <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-          <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-          <link id="pagestyle" href="https://demos.creative-tim.com/soft-ui-design-system/assets/css/soft-design-system.min.css?v=1.1.0" rel="stylesheet" />
-          <section>
-  <div class="container py-4">
-    <div class="row">
-      <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
-
-          <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
-          <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>
-          <script src="?v=1.1.0" type="text/javascript"></script>
-          '></iframe>
-      </div>
-  </div>
 </div>
-</section>
-</div>
+    <!-- Dokumentasi Kegiatan -->
+     <section class="py-5">
+  <div class="container">
+    <div class="row mb-4 text-center">
+      <h2 class="fw-bold text-dark">Layanan Kami</h2>
+      <p class="text-muted">Semua yang anda butuhkan, dari website sampai promosi. di satu tempat</p>
     </div>
+    <div class="row g-4">
+      <!-- CARD 1 -->
+      <div class="col-md-4">
+        <div class="premium-card h-100">
+          <div class="premium-img-wrapper">
+            <img src="assets/img/dummy1.png" class="premium-img">
+          </div>
+          <div class="premium-body">
+            <h5>Software Development</h5>
+            <p>Bangun website profesional, cepat, dan mobile-first biar bisnis makin kredibel.</p>
+            <a href="#" class="premium-link">Lihat Detail →</a>
+          </div>
+        </div>
+      </div>
+      <!-- CARD 2 -->
+      <div class="col-md-4">
+        <div class="premium-card h-100">
+          <div class="premium-img-wrapper">
+            <img src="assets/img/dummy1.png" class="premium-img">
+          </div>
+          <div class="premium-body">
+            <h5>Perbaikan & Maintenance</h5>
+            <p>Service printer, laptop, dan perangkat kerja sampai performanya balik ngebut lagi.</p>
+            <a href="#" class="premium-link">Lihat Detail →</a>
+          </div>
+        </div>
+      </div>
+      <!-- CARD 4 -->
+      <div class="col-md-4">
+        <div class="premium-card h-100">
+          <div class="premium-img-wrapper">
+            <img src="assets/img/dummy1.png" class="premium-img">
+          </div>
+          <div class="premium-body">
+            <h5>Jasa Periklanan Media Cetak dan Elektronik </h5>
+            <p>Solusi periklanan dan media cetak untuk bikin brand Anda lebih terlihat, lebih diingat, dan lebih dipercaya.</p>
+            <a href="#" class="premium-link">Lihat Detail →</a>
+          </div>
+        </div>
+      </div>
+</div>
+      <!-- CARD 5 -->
+
+    <div class="row justify-content-center g-4">
+      <div class="col-md-4 mt-md-5">
+        <div class="premium-card h-100">
+          <div class="premium-img-wrapper">
+            <img src="assets/img/dummy1.png" class="premium-img">
+          </div>
+          <div class="premium-body">
+            <h5>Percetakan dan Digital Printing</h5>
+            <p>Layanan percetakan dan digital printing berkualitas untuk kebutuhan promosi, branding, dan operasional bisnis anda</p>
+            <a href="#" class="premium-link">Lihat Detail →</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
         <!-- Form contact -->
 <section id="contact">
   <div class="container py-4">
     <div class="row">
-
       <!-- ==== FORM ==== -->
       <div class="col-lg-7 d-flex justify-content-center flex-column">
         <h3 class="text-center mb-4">Hubungi Kami</h3>
