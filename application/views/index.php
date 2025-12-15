@@ -71,7 +71,12 @@ Maliki Edulogi Nusantara
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="#service" aria-expanded="false"> Layanan Kami
             <img src="./assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1"/>
           </a>
-</li>    
+</li>   
+  <li class="nav-item dropdown dropdown-hover mx-2">
+          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="#project" aria-expanded="false"> Project Terbaru Kami
+            <img src="./assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1"/>
+          </a>
+</li>   
     <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="#contact" aria-expanded="false"> Hubungi Kami
             <img src="./assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1"/>
@@ -609,11 +614,9 @@ Maliki Edulogi Nusantara
                     </g>
                 </svg>
               </div>
-
-              <h5 class="font-weight-bolder mt-3">Jasa Perbaikan Printer dan PC</h5>
-              <p class="pe-5">Kami menyediakan layanan maintenance komprehensif yang dirancang khusus untuk memastikan kelancaran operasional teknologi Anda sehari-hari. Tim teknis kami terdiri dari tenaga ahli berpengalaman yang siap membantu melakukan perawatan rutin, pengecekan berkala, hingga perbaikan menyeluruh untuk berbagai perangkat. Layanan ini mencakup komputer desktop, all-inone, laptop, hingga perangkat laboratorium komputer di
-                lingkungan sekolah maupun kantor.</p>
-
+                        <h5 class="font-weight-bolder mt-3">Jasa Perbaikan Printer dan PC</h5>
+                        <p class="pe-5">Kami menyediakan layanan maintenance komprehensif yang dirancang khusus untuk memastikan kelancaran operasional teknologi Anda sehari-hari. Tim teknis kami terdiri dari tenaga ahli berpengalaman yang siap membantu melakukan perawatan rutin, pengecekan berkala, hingga perbaikan menyeluruh untuk berbagai perangkat. Layanan ini mencakup komputer desktop, all-inone, laptop, hingga perangkat laboratorium komputer di
+                          lingkungan sekolah maupun kantor.</p>
                             </div>
                           </div>
                           <div class="col-md-6 mt-3">
@@ -688,10 +691,10 @@ Maliki Edulogi Nusantara
     </div>
 </div>
     <!-- Dokumentasi Kegiatan -->
-     <section class="py-5">
+     <section class="py-5" id="project">
   <div class="container">
     <div class="row mb-4 text-center">
-      <h2 class="fw-bold text-dark">Layanan Kami</h2>
+      <h2 class="fw-bold text-dark">Project Terbaru Kami</h2>
       <p class="text-muted">Semua yang anda butuhkan, dari website sampai promosi. di satu tempat</p>
     </div>
     <div class="row g-4">
@@ -702,9 +705,9 @@ Maliki Edulogi Nusantara
             <img src="assets/img/dummy1.png" class="premium-img">
           </div>
           <div class="premium-body">
-            <h5>Software Development</h5>
-            <p>Bangun website profesional, cepat, dan mobile-first biar bisnis makin kredibel.</p>
-            <a href="#" class="premium-link">Lihat Detail →</a>
+            <h5>Website Kalima Test</h5>
+            <p>Sistem ujian berbasis website yang memudahkan pelaksaaan tes online secara efisien dan real time.</p>
+            <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
         </div>
       </div>
@@ -715,9 +718,9 @@ Maliki Edulogi Nusantara
             <img src="assets/img/dummy1.png" class="premium-img">
           </div>
           <div class="premium-body">
-            <h5>Perbaikan & Maintenance</h5>
-            <p>Service printer, laptop, dan perangkat kerja sampai performanya balik ngebut lagi.</p>
-            <a href="#" class="premium-link">Lihat Detail →</a>
+            <h5>Perbaikan & Maintenance Printer</h5>
+            <p>Service printer sampai performanya balik ngebut lagi.</p>
+            <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
         </div>
       </div>
@@ -730,7 +733,7 @@ Maliki Edulogi Nusantara
           <div class="premium-body">
             <h5>Jasa Periklanan Media Cetak dan Elektronik </h5>
             <p>Solusi periklanan dan media cetak untuk bikin brand Anda lebih terlihat, lebih diingat, dan lebih dipercaya.</p>
-            <a href="#" class="premium-link">Lihat Detail →</a>
+            <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
         </div>
       </div>
@@ -746,7 +749,7 @@ Maliki Edulogi Nusantara
           <div class="premium-body">
             <h5>Percetakan dan Digital Printing</h5>
             <p>Layanan percetakan dan digital printing berkualitas untuk kebutuhan promosi, branding, dan operasional bisnis anda</p>
-            <a href="#" class="premium-link">Lihat Detail →</a>
+            <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
         </div>
       </div>
@@ -760,24 +763,62 @@ Maliki Edulogi Nusantara
       <!-- ==== FORM ==== -->
       <div class="col-lg-7 d-flex justify-content-center flex-column">
         <h3 class="text-center mb-4">Hubungi Kami</h3>
+        <?php if ($this->session->flashdata('success')): ?>
+        <p style="color:green"><?= $this->session->flashdata('success') ?></p>
+          <?php endif; ?>
 
-        <form role="form" id="contact-form" method="post" autocomplete="off">
+          <?php if ($this->session->flashdata('error')): ?>
+              <p style="color:red"><?= $this->session->flashdata('error') ?></p>
+          <?php endif; ?>
+
+          <?= validation_errors('<p style="color:red">','</p>') ?>
+
+         <form role="form" id="contact-form" method="post" action="<?= base_url('contact/send') ?>" autocomplete="off">
           <div class="card-body">
+<div class="mb-4">
+  <label for="nama" class="form-label">Nama Lengkap</label>
+  <input
+    type="text"
+    id="nama"
+    name="nama"
+    class="form-control"
+    placeholder="Masukkan nama lengkap Anda"
+    value="<?= set_value('nama'); ?>"
+  >
+</div>
 
-            <div class="mb-4">
-              <label>Nama Lengkap</label>
-              <input class="form-control" type="text" placeholder="Masukkan nama lengkap Anda" />
-            </div>
-
-            <div class="mb-4">
-              <label>Email</label>
-              <input type="email" class="form-control" placeholder="Masukkan email Anda" />
-            </div>
-
-            <div class="form-group mb-4">
-              <label>Pesan</label>
-              <textarea name="pesan" class="form-control" id="pesan" rows="4" placeholder="Bagaimana kami dapat membantu Anda?"></textarea>
-            </div>
+<div class="mb-4">
+  <label for="email" class="form-label">Email</label>
+  <input
+    type="email"
+    id="email"
+    name="email"
+    class="form-control"
+    placeholder="Masukkan email Anda"
+    value="<?= set_value('email'); ?>"
+  >
+</div>
+<div class="mb-4">
+  <label for="nama" class="form-label">No Telepon</label>
+  <input
+    type="text"
+    id="telepon"
+    name="telepon"
+    class="form-control"
+    placeholder="Masukkan nomor telepon Anda"
+    value="<?= set_value('telepon'); ?>"
+  >
+</div>
+<div class="mb-4">
+  <label for="pesan" class="form-label">Pesan</label>
+  <textarea
+    name="pesan"
+    id="pesan"
+    class="form-control"
+    rows="4"
+    placeholder="Bagaimana kami dapat membantu Anda?"
+  ><?= set_value('pesan'); ?></textarea>
+</div>
 
             <button type="submit" class="btn bg-gradient-dark w-100 mb-3">Kirim Pesan ✈️</button>
 
@@ -843,7 +884,7 @@ Maliki Edulogi Nusantara
         <ul class="nav flex-column align-items-center">
           <li class="nav-item"><a class="nav-link" href="#home">Beranda</a></li>
           <li class="nav-item"><a class="nav-link" href="#service">Layanan Kami</a></li>
-          <li class="nav-item"><a class="nav-link" href="#produk">Produk Kami</a></li>
+           <li class="nav-item"><a class="nav-link" href="#service">Project Kami </a></li>
         </ul>
       </div>
 
@@ -851,7 +892,7 @@ Maliki Edulogi Nusantara
         <h6 class="text-gradient text-primary text-sm">Hubungi Kami</h6>
         <ul class="nav flex-column align-items-center">
           <li class="nav-item"><a class="nav-link" href="#contact">Kontak</a></li>
-          <li class="nav-item"><a class="nav-link" href="#kontak">Pusat Bantuan</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Pusat Bantuan</a></li>
           <li class="nav-item"><a class="nav-link" href="mailto:maliki.edulogi@gmail.com">maliki.edulogi@gmail.com</a></li>
         </ul>
       </div>
