@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
-<link rel="icon" type="image/png" href="./assets/img/favicon.png">
+<link rel="icon" type="image/png" href="./assets/img/maliki.png">
 
 <title>
 Maliki Edulogi Nusantara 
@@ -36,7 +36,7 @@ Maliki Edulogi Nusantara
 
 <!-- Nepcha Analytics (nepcha.com) -->
 <!-- Nepcha is a easy-to-use web analytics. No cookies and fully compliant with GDPR, CCPA and PECR. -->
-<script defer data-site="YOUR_DOMAIN_HERE" src="https://api.nepcha.com/js/nepcha-analytics.js"></script>
+<script defer data-site="https://maliki.id" src="https://api.nepcha.com/js/nepcha-analytics.js"></script>
 </head>
 
 <body class="index-page">
@@ -71,7 +71,12 @@ Maliki Edulogi Nusantara
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="#service" aria-expanded="false"> Layanan Kami
             <img src="./assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1"/>
           </a>
-</li>    
+</li>   
+  <li class="nav-item dropdown dropdown-hover mx-2">
+          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="#project" aria-expanded="false"> Project Terbaru Kami
+            <img src="./assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1"/>
+          </a>
+</li>   
     <li class="nav-item dropdown dropdown-hover mx-2">
           <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="#contact" aria-expanded="false"> Hubungi Kami
             <img src="./assets/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1"/>
@@ -393,13 +398,9 @@ Maliki Edulogi Nusantara
 <!-- End Navbar -->
 </div></div></div>
 <header class="header-2">
-  <div class="page-header min-vh-75 relative" style="background-image: url('https://images.unsplash.com/photo-1445452916036-9022dfd33aa8?q=80&w=2973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')">
+ <div class="page-header min-vh-50 relative" style="background-image: url('./assets/img/bg-m.png')">
     <div class="container">
       <div class="row">
-        <div class="col-lg-7 text-center mx-auto">
-          <h1 class="text-white pt-3 mt-n5 text-dark">MALIKI EDULOGI NUSANTARA</h1>
-          <p class="lead text-white mt-3">Edukasi dan Teknologi untuk Membangun Negeri <br/> </p>
-        </div>
       </div>
     </div>
     <div class="position-absolute w-100 z-index-1 bottom-0">
@@ -428,10 +429,10 @@ Maliki Edulogi Nusantara
   <div class="p-3 text-center">
     <div style="display: flex; justify-content: center; margin-bottom: 8px;">
       <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none"><path fill="url(#SVGM0JdfeZV)" d="M24 5a6.5 6.5 0 1 0 0 13a6.5 6.5 0 0 0 0-13"/><path fill="url(#SVGIHdlMLge)" d="M9.5 9a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11"/><path fill="url(#SVGVJK0ubBZ)" d="M38.5 9a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11"/><path fill="url(#SVGFyfNjdba)" d="M30.478 21.818a3.25 3.25 0 0 0-3.98 2.298l-1.489 5.554a9 9 0 1 0 17.387 4.659l1.488-5.554a3.25 3.25 0 0 0-2.298-3.98z"/><path fill="url(#SVGb8y0xb1O)" d="M17.522 21.818a3.25 3.25 0 0 1 3.98 2.298l1.488 5.554a9 9 0 1 1-17.386 4.66l-1.489-5.554a3.25 3.25 0 0 1 2.299-3.98z"/><path fill="url(#SVGpuHNKb0b)" d="M18.25 21A3.25 3.25 0 0 0 15 24.25V32a9 9 0 1 0 18 0v-7.75A3.25 3.25 0 0 0 29.75 21z"/><defs><radialGradient id="SVGM0JdfeZV" cx="0" cy="0" r="1" gradientTransform="rotate(59.931 3.08 24.51)scale(8.11995)" gradientUnits="userSpaceOnUse"><stop offset=".339" stop-color="#3dcbff"/><stop offset="1" stop-color="#14b1ff"/></radialGradient><radialGradient id="SVGIHdlMLge" cx="0" cy="0" r="1" gradientTransform="rotate(47.573 -10.4 14.318)scale(9.01943)" gradientUnits="userSpaceOnUse"><stop stop-color="#008ce2"/><stop offset="1" stop-color="#0068c6"/></radialGradient><radialGradient id="SVGVJK0ubBZ" cx="0" cy="0" r="1" gradientTransform="rotate(78.837 11.016 28.388)scale(8.06859)" gradientUnits="userSpaceOnUse"><stop stop-color="#0078d4"/><stop offset="1" stop-color="#004695"/></radialGradient><radialGradient id="SVGFyfNjdba" cx="0" cy="0" r="1" gradientTransform="rotate(78.837 -.87 32.568)scale(14.1533)" gradientUnits="userSpaceOnUse"><stop stop-color="#0078d4"/><stop offset="1" stop-color="#004695"/></radialGradient><radialGradient id="SVGb8y0xb1O" cx="0" cy="0" r="1" gradientTransform="rotate(61.056 -14.804 18.71)scale(21.017 15.1281)" gradientUnits="userSpaceOnUse"><stop stop-color="#008ce2"/><stop offset="1" stop-color="#0068c6"/></radialGradient><radialGradient id="SVGpuHNKb0b" cx="0" cy="0" r="1" gradientTransform="rotate(62.478 -11.966 32.366)scale(12.1907 11.5211)" gradientUnits="userSpaceOnUse"><stop offset=".339" stop-color="#3dcbff"/><stop offset="1" stop-color="#14b1ff"/></radialGradient></defs></g></svg>
-</div>
-    <h1 class="text-gradient text-dark"><span id="state1" countTo="250">0</span>+</h1>
-    <h5 class="mt-3">Customer Puas</h5>
-</div>
+      </div>
+          <h1 class="text-gradient text-dark"><span id="state1" countTo="250">0</span>+</h1>
+          <h5 class="mt-3">Customer Puas</h5>
+      </div>
             <hr class="vertical dark">
           </div>
         <div class="col-md-4 position-relative">
@@ -449,7 +450,7 @@ Maliki Edulogi Nusantara
      <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none"><path fill="url(#SVG9wzqle4l)" d="M24.865 4.348a1.25 1.25 0 0 0-1.73 0c-2.759 2.643-6.685 4.077-10.037 4.84c-1.66.376-3.139.58-4.202.69A29 29 0 0 1 7.242 10H7.22A1.25 1.25 0 0 0 6 11.25v9.5c0 4.837 1.243 9.658 4.098 13.775c2.861 4.126 7.29 7.469 13.529 9.418c.243.076.503.076.746 0C36.94 40.016 42 30.497 42 21v-9.75A1.25 1.25 0 0 0 40.78 10h-.022l-.08-.003l-.328-.017a29 29 0 0 1-1.246-.102a36 36 0 0 1-4.202-.69c-3.353-.763-7.279-2.197-10.037-4.84"/><defs><radialGradient id="SVG9wzqle4l" cx="0" cy="0" r="1" gradientTransform="rotate(54.497 13.89 -17.156)scale(95.1985 84.0956)" gradientUnits="userSpaceOnUse"><stop offset=".338" stop-color="#0fafff"/><stop offset=".529" stop-color="#367af2"/><stop offset=".682" stop-color="#5750e2"/><stop offset=".861" stop-color="#cc23d1"/></radialGradient></defs></g></svg>
 </div>
     <h1 class="text-gradient text-dark"><span id="state1" countTo="250">24/7</span></h1>
-    <h5 class="mt-3">Siap Mendukung anda 24/7</h5>
+    <h5 class="mt-3">Siap Mendukung anda</h5>
 </div>
         </div>
       </div>
@@ -457,27 +458,36 @@ Maliki Edulogi Nusantara
   </div>
 </section>
 <!-- HERO / HOME -->
-<section id="home" class="my-5 py-5 scroll-mt-36">
+<section id="home" class="my-6 py-6 scroll-mt-45 hero-section">
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-6">
-        <h2 class="text-dark mb-0">Layanan Terbaik untuk Kebutuhan Operasional & Digital Anda</h2>
+        <h2 class="text-dark mb-0">
+          Layanan Terbaik untuk Kebutuhan Operasional & Digital Anda
+        </h2>
         <p class="lead">
           Dari percetakan harian hingga pengembangan sistem digital.
           Maliki Edulogi Nusantara hadir untuk mendukung Instansi, Sekolah, Bisnis,
           dan Perusahaan semakin produktif.
         </p>
-        <a href="#services" class="btn btn-dark px-4 py-2 mt-3 rounded-3">
-          Lihat Layanan Kami
-        </a>
+
+        <!-- TOMBOL -->
+ <a href="#service" class="btn btn-outline-primary px-4 py-2 mt-3 rounded-3 me-2">
+  Eksplor Layanan
+</a>
+<a href="#contact" class="btn btn-outline-primary px-4 py-2 mt-3 rounded-3">
+  Hubungi Tim Kami
+</a>
+
       </div>
     </div>
   </div>
 </section>
 
 
+
 <!-- ABOUT -->
-<section id="about" class="my-5 py-5 scroll-mt-36">
+<section id="about" class="my-6 py-6 scroll-mt-40">
   <div class="container">
 
     <div class="row justify-content-center text-center">
@@ -490,67 +500,7 @@ Maliki Edulogi Nusantara
       </div>
     </div>
 
-    <!-- CARD VISI -->
-    <!-- <div class="row justify-content-center mb-4 reveal">
-      <div class="col-lg-9 z-index-2 mx-auto py-4 px-4 blur shadow-blur gradient-card rounded-4">
-        <div class="text-center">
-          <h3 class="text-gradient-dark mb-3">Visi Kami</h3>
-          <p class="text-sm">
-            Menjadi grup usaha yang unggul, terpercaya, dan berdaya saing tinggi
-            dalam bidang pengadaan barang dan jasa, dengan berorientasi pada
-            kualitas, inovasi, serta keberlanjutan.
-          </p>
-        </div>
-      </div>
-    </div>
-
- 
-    <div class="row justify-content-center g-4">
-      <div class="col-md-3">
-        <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Misi Kami</h4>
-          <p class="text-sm mt-2">
-            Memberikan layanan pengadaan barang dan jasa yang cepat, tepat,
-            dan profesional sesuai kebutuhan mitra.
-          </p>
-        </div>
-      </div> -->
-
-      <!-- <div class="col-md-3">
-        <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Misi Kami</h4>
-          <p class="text-sm mt-2">
-            Menyediakan produk dan jasa berkualitas terbaik untuk mendukung
-            operasional instansi, sekolah, dan pemerintah daerah.
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-3">
-        <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Misi Kami</h4>
-          <p class="text-sm mt-2">
-            Membangun hubungan kerja sama saling menguntungkan dengan
-            mengutamakan kepercayaan dan kepuasan pelanggan.
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-3">
-        <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Misi Kami</h4>
-          <p class="text-sm mt-2">
-            Terus berinovasi dalam pengembangan layanan untuk menjawab kebutuhan
-            dan tantangan masa depan secara berkelanjutan.
-          </p>
-        </div>
-      </div>
-    </div>
-
-  </div> -->
-  
   <div class="container">
-
     <div class="row justify-content-center mb-4 reveal">
       <div class="col-lg-9 z-index-2 mx-auto py-4 px-4 blur shadow-blur gradient-card rounded-4">
         <div class="text-center">
@@ -560,7 +510,6 @@ Maliki Edulogi Nusantara
     </div>
 
     <div class="row justify-content-center g-4">
-
       <div class="col-md-3">
         <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
           <h4 class="text-gradient-dark">Standar Kualitas Tinggi</h4>
@@ -603,486 +552,431 @@ Maliki Edulogi Nusantara
 </section>
 
 <!--product-->
-<section class="my-5 py-5">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="text-center">
-          <h2 class="text-gradient-dark mb-3">Layanan Kami</h2>
-        </div>
-      <div class="col-lg-6 ms-auto">
-        <div class="row justify-content-start">
+<section id="service" class="py-5 position-relative overflow-hidden">
+  <style>
+    #service { background: linear-gradient(180deg,#f7fbff,#ffffff); position: relative; }
+    #service::before {
+      content:""; position:absolute; width:420px; height:420px;
+      background:radial-gradient(circle,rgba(13,110,253,.18),transparent 70%);
+      top:-120px; left:-120px; z-index:0;
+    }
+
+    .service-badge {
+      display:inline-block; padding:6px 16px; font-size:12px; font-weight:700;
+      letter-spacing:1px; text-transform:uppercase; color:#fff;
+      background:linear-gradient(135deg,#0d6efd,#0b5ed7); border-radius:20px;
+      margin-bottom:12px;
+    }
+
+    .service-card {
+      background:#fff; border-radius:20px; padding:26px; height:100%;
+      border:1px solid #e6efff; transition:.4s ease; position:relative; overflow:hidden;
+      cursor:pointer;
+    }
+    .service-card::after {
+      content:""; position:absolute; inset:0;
+      background:linear-gradient(120deg,transparent,rgba(13,110,253,.12),transparent);
+      opacity:0; transition:.4s;
+    }
+    .service-card:hover::after { opacity:1; }
+    .service-card:hover {
+      transform:translateY(-8px);
+      box-shadow:0 25px 60px rgba(13,110,253,.25);
+      border-color:#0d6efd;
+    }
+    .service-icon {
+      width:56px; height:56px; border-radius:16px;
+      background:linear-gradient(135deg,#0d6efd,#0b5ed7);
+      display:flex; align-items:center; justify-content:center;
+      color:#fff; font-size:26px; box-shadow:0 10px 25px rgba(13,110,253,.45);
+      margin-bottom:16px;
+    }
+
+    /* ===== BRAND CARD KANAN (PUTIH MODERN) ===== */
+    .brand-card-modern {
+      border-radius:20px; background:#ffffff;
+      box-shadow:0 10px 30px rgba(13,110,253,0.1);
+      position:relative; overflow:hidden;
+      transition: transform 0.4s ease, box-shadow 0.4s ease, border-color 0.4s ease;
+      cursor:pointer; padding:2rem 1.5rem;
+    }
+    .brand-card-modern:hover {
+      transform:translateY(-8px) scale(1.02);
+      box-shadow:0 20px 50px rgba(13,110,253,0.15);
+      border:1px solid #0d6efd;
+    }
+    .brand-overlay {
+      position:absolute; inset:0;
+      background:
+        radial-gradient(circle at top right, rgba(13,110,253,0.05), transparent 50%),
+        radial-gradient(circle at bottom left, rgba(0,0,0,0.03), transparent 55%);
+      pointer-events:none;
+    }
+    .brand-icon {
+      width:70px; height:70px; border-radius:16px;
+      background:linear-gradient(135deg,#0d6efd,#0b5ed7);
+      display:flex; align-items:center; justify-content:center;
+      font-size:32px; margin:0 auto 16px; color:#fff;
+      transition: transform 0.3s ease;
+    }
+    .brand-card-modern:hover .brand-icon {
+      transform: scale(1.1) rotate(5deg);
+    }
+    .brand-card-modern .btn {
+      transition: transform 0.3s ease, background 0.3s ease, color 0.3s ease;
+    }
+    .brand-card-modern .btn:hover {
+      transform: scale(1.05); background:#0d6efd; color:#fff;
+    }
+    .brand-card-modern ul li {
+      margin-bottom:6px; color:#555;
+      transition: transform 0.3s ease, color 0.3s ease;
+      list-style:none;
+    }
+    .brand-card-modern ul li:hover {
+      transform: translateX(4px); color:#0d6efd;
+    }
+    #service::before {
+  content: "";
+  position: absolute;
+  top: -200px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 900px;
+  height: 900px;
+  background: radial-gradient(circle,
+    rgba(13,110,253,0.35),
+    rgba(13,110,253,0.15),
+    transparent 70%
+  );
+  filter: blur(140px);
+  z-index: 1;
+}
+
+  </style>
+
+  <div class="container position-relative" style="z-index:1">
+    <div class="row g-4 align-items-start">
+
+      <!-- KIRI: SERVICES -->
+      <div class="col-lg-6">
+        <span class="service-badge">Our Services</span>
+        <h2 class="fw-bold mb-3">Solusi Terintegrasi untuk Bisnis & Institusi</h2>
+        <p class="text-muted mb-4">
+          Maliki Edulogi Nusantara hadir sebagai mitra strategis yang menyediakan
+          layanan teknologi, periklanan, hingga percetakan untuk mendukung
+          pertumbuhan dan operasional Anda secara menyeluruh.
+        </p>
+        <div class="row g-4">
           <div class="col-md-6">
-            <div class="info">
-              <div class="icon icon-sm">
-                <svg class="text-dark" width="25px" height="25px" viewBox="0 0 40 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <title>document</title>
-                  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                      <g transform="translate(-1870.000000, -591.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                          <g transform="translate(1716.000000, 291.000000)">
-                              <g transform="translate(154.000000, 300.000000)">
-                                  <path class="color-background" d="M40,40 L36.3636364,40 L36.3636364,3.63636364 L5.45454545,3.63636364 L5.45454545,0 L38.1818182,0 C39.1854545,0 40,0.814545455 40,1.81818182 L40,40 Z" opacity="0.603585379"></path>
-                                  <path class="color-background" d="M30.9090909,7.27272727 L1.81818182,7.27272727 C0.814545455,7.27272727 0,8.08727273 0,9.09090909 L0,41.8181818 C0,42.8218182 0.814545455,43.6363636 1.81818182,43.6363636 L30.9090909,43.6363636 C31.9127273,43.6363636 32.7272727,42.8218182 32.7272727,41.8181818 L32.7272727,9.09090909 C32.7272727,8.08727273 31.9127273,7.27272727 30.9090909,7.27272727 Z M18.1818182,34.5454545 L7.27272727,34.5454545 L7.27272727,30.9090909 L18.1818182,30.9090909 L18.1818182,34.5454545 Z M25.4545455,27.2727273 L7.27272727,27.2727273 L7.27272727,23.6363636 L25.4545455,23.6363636 L25.4545455,27.2727273 Z M25.4545455,20 L7.27272727,20 L7.27272727,16.3636364 L25.4545455,16.3636364 L25.4545455,20 Z"></path>
-                              </g>
-                          </g>
-                      </g>
-                  </g>
-              </svg>
-              </div>
-              <h5 class="font-weight-bolder mt-3">Jasa Pembuatan Software</h5>
-              <p class="pe-5">Solusi software khusus yang dirancang mengikuti kebutuhan bisnis Anda. Mulai dari otomasi proses, pengelolaan data, hingga sistem operasional berskala besar. Semuanya dikembangkan dengan standar tinggi untuk memastikan performa yang stabil, aman, dan mudah diintegrasikan</p>
-
+            <div class="service-card">
+              <div class="service-icon">💻</div>
+              <h5 class="fw-bold mb-2">Jasa Software Development</h5>
+              <p>
+                Kami melayani software development yang dirancang khusus untuk
+                berbagai kebutuhan industri. Tim developer kami berpengalaman
+                membangun sistem ERP terintegrasi serta software manufaktur
+                yang disesuaikan dengan proses produksi Anda.
+              </p>
             </div>
           </div>
           <div class="col-md-6">
-            <div class="info">
-              <div class="icon icon-sm">
-                <svg class="text-dark" width="25px" height="25px" viewBox="0 0 45 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <title>shop </title>
-                  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                      <g transform="translate(-1716.000000, -439.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                          <g transform="translate(1716.000000, 291.000000)">
-                              <g id="shop-" transform="translate(0.000000, 148.000000)">
-                                  <path class="color-background" d="M46.7199583,10.7414583 L40.8449583,0.949791667 C40.4909749,0.360605034 39.8540131,0 39.1666667,0 L7.83333333,0 C7.1459869,0 6.50902508,0.360605034 6.15504167,0.949791667 L0.280041667,10.7414583 C0.0969176761,11.0460037 -1.23209662e-05,11.3946378 -1.23209662e-05,11.75 C-0.00758042603,16.0663731 3.48367543,19.5725301 7.80004167,19.5833333 L7.81570833,19.5833333 C9.75003686,19.5882688 11.6168794,18.8726691 13.0522917,17.5760417 C16.0171492,20.2556967 20.5292675,20.2556967 23.494125,17.5760417 C26.4604562,20.2616016 30.9794188,20.2616016 33.94575,17.5760417 C36.2421905,19.6477597 39.5441143,20.1708521 42.3684437,18.9103691 C45.1927731,17.649886 47.0084685,14.8428276 47.0000295,11.75 C47.0000295,11.3946378 46.9030823,11.0460037 46.7199583,10.7414583 Z" opacity="0.598981585"></path>
-                                  <path class="color-background" d="M39.198,22.4912623 C37.3776246,22.4928106 35.5817531,22.0149171 33.951625,21.0951667 L33.92225,21.1107282 C31.1430221,22.6838032 27.9255001,22.9318916 24.9844167,21.7998837 C24.4750389,21.605469 23.9777983,21.3722567 23.4960833,21.1018359 L23.4745417,21.1129513 C20.6961809,22.6871153 17.4786145,22.9344611 14.5386667,21.7998837 C14.029926,21.6054643 13.533337,21.3722507 13.0522917,21.1018359 C11.4250962,22.0190609 9.63246555,22.4947009 7.81570833,22.4912623 C7.16510551,22.4842162 6.51607673,22.4173045 5.875,22.2911849 L5.875,44.7220845 C5.875,45.9498589 6.7517757,46.9451667 7.83333333,46.9451667 L19.5833333,46.9451667 L19.5833333,33.6066734 L27.4166667,33.6066734 L27.4166667,46.9451667 L39.1666667,46.9451667 C40.2482243,46.9451667 41.125,45.9498589 41.125,44.7220845 L41.125,22.2822926 C40.4887822,22.4116582 39.8442868,22.4815492 39.198,22.4912623 Z"></path>
-                              </g>
-                          </g>
-                      </g>
-                  </g>
-              </svg>
-              </div>
-
-              <h5 class="font-weight-bolder mt-3">Jasa Pembuatan Website</h5>
-              <p class="pe-3">Kami siap melayani pembuatan Website profesional dengan tampilan modern, cepat, dan responsif. Setiap proyek dibangun dengan fokus pada pengalaman pengguna, keamanan, serta kemudahan pengelolaan, sehingga brand Anda tampil lebih kredibel dan siap bersaing di ranah digital </p>
-
+            <div class="service-card">
+              <div class="service-icon">📢</div>
+              <h5 class="fw-bold mb-2">Periklanan Media Cetak & Elektronik</h5>
+              <p>
+                Layanan pemasaran komprehensif untuk mendukung promosi berbagai
+                institusi. Kami bekerja sama dengan media terkemuka seperti
+                Jawa Pos Radar Malang, InfoMalang, Malang Pos, dan lainnya.
+              </p>
             </div>
           </div>
-        </div>
-        <div class="row justify-content-start mt-5">
-          <div class="col-md-6 mt-3">
-            <div class="info">
-              <div class="icon icon-sm">
-                <svg class="text-dark" width="25px" height="25px" viewBox="0 0 42 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                    <title>time-alarm</title>
-                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                        <g transform="translate(-2319.000000, -440.000000)" fill="#923DFA" fill-rule="nonzero">
-                            <g transform="translate(1716.000000, 291.000000)">
-                                <g id="time-alarm" transform="translate(603.000000, 149.000000)">
-                                    <path class="color-background" d="M18.8086957,4.70034783 C15.3814926,0.343541521 9.0713063,-0.410050841 4.7145,3.01715217 C0.357693695,6.44435519 -0.395898667,12.7545415 3.03130435,17.1113478 C5.53738466,10.3360568 11.6337901,5.54042955 18.8086957,4.70034783 L18.8086957,4.70034783 Z" opacity="0.6"></path>
-                                    <path class="color-background" d="M38.9686957,17.1113478 C42.3958987,12.7545415 41.6423063,6.44435519 37.2855,3.01715217 C32.9286937,-0.410050841 26.6185074,0.343541521 23.1913043,4.70034783 C30.3662099,5.54042955 36.4626153,10.3360568 38.9686957,17.1113478 Z" opacity="0.6"></path>
-                                    <path class="color-background" d="M34.3815652,34.7668696 C40.2057958,27.7073059 39.5440671,17.3375603 32.869743,11.0755718 C26.1954189,4.81358341 15.8045811,4.81358341 9.13025701,11.0755718 C2.45593289,17.3375603 1.79420418,27.7073059 7.61843478,34.7668696 L3.9753913,40.0506522 C3.58549114,40.5871271 3.51710058,41.2928217 3.79673036,41.8941824 C4.07636014,42.4955431 4.66004722,42.8980248 5.32153275,42.9456105 C5.98301828,42.9931963 6.61830436,42.6784048 6.98113043,42.1232609 L10.2744783,37.3434783 C16.5555112,42.3298213 25.4444888,42.3298213 31.7255217,37.3434783 L35.0188696,42.1196087 C35.6014207,42.9211577 36.7169135,43.1118605 37.53266,42.5493622 C38.3484064,41.9868639 38.5667083,40.8764423 38.0246087,40.047 L34.3815652,34.7668696 Z M30.1304348,25.5652174 L21,25.5652174 C20.49574,25.5652174 20.0869565,25.1564339 20.0869565,24.6521739 L20.0869565,15.5217391 C20.0869565,15.0174791 20.49574,14.6086957 21,14.6086957 C21.50426,14.6086957 21.9130435,15.0174791 21.9130435,15.5217391 L21.9130435,23.7391304 L30.1304348,23.7391304 C30.6346948,23.7391304 31.0434783,24.1479139 31.0434783,24.6521739 C31.0434783,25.1564339 30.6346948,25.5652174 30.1304348,25.5652174 Z"></path>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </svg>
-              </div>
-
-              <h5 class="font-weight-bolder mt-3">Jasa Perbaikan Printer</h5>
-              <p class="pe-5">Layanan perbaikan printer yang cepat dan terpercaya. Didukung teknisi berpengalaman, kami menangani berbagai kerusakan umum hingga perawatan rutin, memastikan perangkat Anda kembali berfungsi optimal tanpa mengganggu produktivitas.</p>
-
+          <div class="col-md-6">
+            <div class="service-card">
+              <div class="service-icon">🖨️</div>
+              <h5 class="fw-bold mb-2">Perbaikan Printer & PC</h5>
+              <p>
+                Layanan maintenance profesional mencakup perawatan, pengecekan,
+                hingga perbaikan komputer, laptop, printer, dan perangkat
+                laboratorium sekolah maupun kantor.
+              </p>
             </div>
           </div>
-          <div class="col-md-6 mt-3">
-            <div class="info">
-              <div class="icon icon-sm">
-                <svg class="text-dark" width="25px" height="25px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <title>office</title>
-                  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                  <g transform="translate(-1869.000000, -293.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                  <g transform="translate(1716.000000, 291.000000)">
-                      <g id="office" transform="translate(153.000000, 2.000000)">
-                          <path class="color-background" d="M12.25,17.5 L8.75,17.5 L8.75,1.75 C8.75,0.78225 9.53225,0 10.5,0 L31.5,0 C32.46775,0 33.25,0.78225 33.25,1.75 L33.25,12.25 L29.75,12.25 L29.75,3.5 L12.25,3.5 L12.25,17.5 Z" opacity="0.6"></path>
-                          <path class="color-background" d="M40.25,14 L24.5,14 C23.53225,14 22.75,14.78225 22.75,15.75 L22.75,38.5 L19.25,38.5 L19.25,22.75 C19.25,21.78225 18.46775,21 17.5,21 L1.75,21 C0.78225,21 0,21.78225 0,22.75 L0,40.25 C0,41.21775 0.78225,42 1.75,42 L40.25,42 C41.21775,42 42,41.21775 42,40.25 L42,15.75 C42,14.78225 41.21775,14 40.25,14 Z M12.25,36.75 L7,36.75 L7,33.25 L12.25,33.25 L12.25,36.75 Z M12.25,29.75 L7,29.75 L7,26.25 L12.25,26.25 L12.25,29.75 Z M35,36.75 L29.75,36.75 L29.75,33.25 L35,33.25 L35,36.75 Z M35,29.75 L29.75,29.75 L29.75,26.25 L35,26.25 L35,29.75 Z M35,22.75 L29.75,22.75 L29.75,19.25 L35,19.25 L35,22.75 Z"></path>
-                      </g>
-                  </g>
-                  </g>
-                  </g>
-                </svg>
-              </div>
-
-              <h5 class="font-weight-bolder mt-3">Jasa Percetakan</h5>
-              <p class="pe-3">Layanan percetakan berkualitas tinggi untuk kebutuhan personal maupun bisnis. Hasil cetak tajam, warna konsisten, dan pengerjaan yang rapi, mulai dari media promosi hingga dokumen profesional.</p>
-
+          <div class="col-md-6">
+            <div class="service-card">
+              <div class="service-icon">📄</div>
+              <h5 class="fw-bold mb-2">Percetakan & Digital Printing</h5>
+              <p>
+                Solusi percetakan berkualitas tinggi mulai dari dokumen
+                administrasi, fotokopi, map dinas, hingga buku saku dan
+                pedoman akademik.
+              </p>
             </div>
           </div>
         </div>
       </div>
-      <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
-          <div class="card card-background card-background-mask-dark tilt" data-tilt>
-            <div class="full-background" style="background-image: url('https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/team-working.jpg')"></div>
-            <div class="card-body pt-7 text-center">
-              <div class="icon icon-lg up mb-3 mt-3">
-                <svg width="50px" height="50px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <title>box-3d-50</title>
-                  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                  <g transform="translate(-2319.000000, -291.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                  <g transform="translate(1716.000000, 291.000000)">
-                    <g id="box-3d-50" transform="translate(603.000000, 0.000000)">
-                      <path d="M22.7597136,19.3090182 L38.8987031,11.2395234 C39.3926816,10.9925342 39.592906,10.3918611 39.3459167,9.89788265 C39.249157,9.70436312 39.0922432,9.5474453 38.8987261,9.45068056 L20.2741875,0.1378125 L20.2741875,0.1378125 C19.905375,-0.04725 19.469625,-0.04725 19.0995,0.1378125 L3.1011696,8.13815822 C2.60720568,8.38517662 2.40701679,8.98586148 2.6540352,9.4798254 C2.75080129,9.67332903 2.90771305,9.83023153 3.10122239,9.9269862 L21.8652864,19.3090182 C22.1468139,19.4497819 22.4781861,19.4497819 22.7597136,19.3090182 Z"></path>
-                      <path d="M23.625,22.429159 L23.625,39.8805372 C23.625,40.4328219 24.0727153,40.8805372 24.625,40.8805372 C24.7802551,40.8805372 24.9333778,40.8443874 25.0722402,40.7749511 L41.2741875,32.673375 L41.2741875,32.673375 C41.719125,32.4515625 42,31.9974375 42,31.5 L42,14.241659 C42,13.6893742 41.5522847,13.241659 41,13.241659 C40.8447549,13.241659 40.6916418,13.2778041 40.5527864,13.3472318 L24.1777864,21.5347318 C23.8390024,21.7041238 23.625,22.0503869 23.625,22.429159 Z" opacity="0.7"></path>
-                      <path d="M20.4472136,21.5347318 L1.4472136,12.0347318 C0.953235098,11.7877425 0.352562058,11.9879669 0.105572809,12.4819454 C0.0361450918,12.6208008 6.47121774e-16,12.7739139 0,12.929159 L0,30.1875 L0,30.1875 C0,30.6849375 0.280875,31.1390625 0.7258125,31.3621875 L19.5528096,40.7750766 C20.0467945,41.0220531 20.6474623,40.8218132 20.8944388,40.3278283 C20.963859,40.1889789 21,40.0358742 21,39.8806379 L21,22.429159 C21,22.0503869 20.7859976,21.7041238 20.4472136,21.5347318 Z" opacity="0.7"></path>
-                    </g>
-                  </g>
-                  </g>
-                  </g>
-                  </svg>
-              </div>
-              <h2 class="text-white up mb-0">Lets Choice <br/> Maliki Edulogi Nusantara</h2>
-              <a href="#contact" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Start with Us</a>
-            </div>
+
+      <!-- KANAN: BRAND CARD (POSISI TENGAH ANTARA CARD KIRI) -->
+      <div class="col-lg-4 d-flex align-items-center">
+        <div class="brand-card-modern w-100">
+          <div class="brand-overlay"></div>
+          <div class="text-center position-relative p-4">
+            <div class="brand-icon">🚀</div>
+            <h4 class="fw-bold mb-1">Lets Choice</h4>
+            <p class="fw-semibold mb-2">Maliki Edulogi Nusantara</p>
+            <p class="small opacity-75 mb-3">
+              Partner strategis yang menghadirkan solusi terintegrasi untuk institusi, bisnis, dan pendidikan.
+            </p>
+            <ul>
+              <li>Tim profesional & berpengalaman</li>
+              <li>Layanan terintegrasi satu pintu</li>
+              <li>Fokus kualitas & keberlanjutan</li>
+              <li>Pendampingan jangka panjang</li>
+            </ul>
+            <a href="#contact" class="btn btn-light fw-semibold px-4 mt-2">
+              Start with Us
+            </a>
           </div>
+        </div>
       </div>
+
     </div>
   </div>
 </section>
 
 
-<section class="my-5 py-5" id="#service">
+<section class="my-5 py-5" id="produk">
   <div class="container">
     <div class="row">
       <div class="row justify-content-center text-center my-sm-5">
         <div class="col-lg-6">
           <h2 class="text-dark mb-0">Temukan Layanan Terbaik bersama kami</h2>
-          <h2 class="text-primary text-gradient">Maliki Edulogi Nusantara</h2>
+          <h2 class="text-primary">Maliki Edulogi Nusantara</h2>
           <p class="lead">Kami berkomitmen memberikan solusi yang tepat, efisien, dan dapat diandalkan untuk setiap kebutuhan Anda. Setiap layanan dirancang dengan standar profesional guna memastikan hasil yang konsisten dan berkualitas. </p>
         </div>
       </div>
     </div>
-  </div>
-  <div class="container mt-sm-5 mt-3">
-    <div class="row">
-      <div class="col-lg-3">
-        <div class="position-sticky pb-lg-5 pb-3 mt-lg-0 mt-5 ps-2" style="top: 100px">
-          <h3>Testimoni</h3>
-          <h6 class="text-secondary font-weight-normal pe-3">70+ carefully crafted small elements that come with multiple colors and shapes. These are only a few of them.</h6>
-        </div>
-      </div>
-
-      <div class="col-lg-9">
-        <div class="row mt-3">
-
-
-    
-
-
-        <div class="col-lg-9">
-        <div class="row mt-3">
-          <!-- Buttons color -->
-<div class="col-12">
-  <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-    <div class="container border-bottom">
-      <div class="row justify-space-between py-2">
-        <div class="col-lg-3 me-auto">
-          <p class="lead text-dark pt-1 mb-0">Buttons color</p>
-        </div>
-            </ul>
+</div>
+    <!-- Dokumentasi Kegiatan -->
+     <section class="py-5" id="project">
+  <div class="container">
+    <div class="row mb-4 text-center">
+      <h2 class="fw-bold text-dark">Project Terbaru Kami</h2>
+      <p class="text-muted">Semua yang anda butuhkan, dari website sampai promosi. di satu tempat</p>
+    </div>
+    <div class="row g-4">
+      <!-- CARD 1 -->
+      <div class="col-md-4">
+        <div class="premium-card h-100">
+          <div class="premium-img-wrapper">
+            <img src="assets/img/dummy1.png" class="premium-img">
+          </div>
+          <div class="premium-body">
+            <h5>Website Kalima Test</h5>
+            <p>Sistem ujian berbasis website yang memudahkan pelaksaaan tes online secara efisien dan real time.</p>
+            <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
         </div>
       </div>
-    </div>
-      </div>
-    </div>
-  </div>
-        
-          <!-- Form simple -->
-    <div class="tab-content tab-space">
-      <div class="tab-pane active" id="preview-forms-simple">
-        <iframe class="w-100 height-600" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-          <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-          <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-          <!-- Nucleo Icons -->
-          <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-          <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-          <link id="pagestyle" href="https://demos.creative-tim.com/soft-ui-design-system/assets/css/soft-design-system.min.css?v=1.1.0" rel="stylesheet" />
-          <section>
-  <div class="container py-4">
-    <div class="row">
-      <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
-        <h3 class="text-center">Contact us</h3>
-        <form role="form" id="contact-form" method="post" autocomplete="off">
-          <div class="card-body">
-            <div class="row">
-              <div class="col-md-6">
-                <label>First Name</label>
-                <div class="input-group mb-4">
-                  <input class="form-control" placeholder="" aria-label="First Name..." type="text" >
-                </div>
-              </div>
-              <div class="col-md-6 ps-2">
-                <label>Last Name</label>
-                <div class="input-group">
-                  <input type="text" class="form-control" placeholder="" aria-label="Last Name..." >
-                </div>
-              </div>
-            </div>
-            <div class="mb-4">
-              <label>Email Address</label>
-              <div class="input-group">
-                <input type="email" class="form-control" placeholder="" >
-              </div>
-            </div>
-            <div class="form-group mb-4">
-              <label>Your message</label>
-              <textarea name="message" class="form-control" id="message" rows="4"></textarea>
-            </div>
-            <div class="row">
-              <div class="col-md-12">
-                <div class="form-check form-switch mb-4">
-                  <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" checked="">
-                  <label class="form-check-label" for="flexSwitchCheckDefault">I agree to the <a href="javascript:;" class="text-dark"><u>Terms and Conditions</u></a>.</label>
-                </div>
-              </div>
-              <div class="col-md-12">
-                <button type="submit" class="btn bg-gradient-dark w-100">Send Message</button>
-              </div>
-            </div>
+      <!-- CARD 2 -->
+      <div class="col-md-4">
+        <div class="premium-card h-100">
+          <div class="premium-img-wrapper">
+            <img src="assets/img/dummy1.png" class="premium-img">
           </div>
-        </form>
+          <div class="premium-body">
+            <h5>Perbaikan & Maintenance Printer</h5>
+            <p>Service printer sampai performanya balik ngebut lagi.</p>
+            <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
+          </div>
+        </div>
+      </div>
+      <!-- CARD 4 -->
+      <div class="col-md-4">
+        <div class="premium-card h-100">
+          <div class="premium-img-wrapper">
+            <img src="assets/img/dummy1.png" class="premium-img">
+          </div>
+          <div class="premium-body">
+            <h5>Jasa Periklanan Media Cetak dan Elektronik </h5>
+            <p>Solusi periklanan dan media cetak untuk bikin brand Anda lebih terlihat, lebih diingat, dan lebih dipercaya.</p>
+            <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
+          </div>
+        </div>
+      </div>
+</div>
+      <!-- CARD 5 -->
+
+    <div class="row justify-content-center g-4">
+      <div class="col-md-4 mt-md-5">
+        <div class="premium-card h-100">
+          <div class="premium-img-wrapper">
+            <img src="assets/img/dummy1.png" class="premium-img">
+          </div>
+          <div class="premium-body">
+            <h5>Percetakan dan Digital Printing</h5>
+            <p>Layanan percetakan dan digital printing berkualitas untuk kebutuhan promosi, branding, dan operasional bisnis anda</p>
+            <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </section>
+        <!-- Form contact -->
+<section id="contact">
+  <div class="container py-4">
+    <div class="row">
+      <!-- ==== FORM ==== -->
+      <div class="col-lg-7 d-flex justify-content-center flex-column">
+        <h3 class="text-center mb-4">Hubungi Kami</h3>
+        <?php if ($this->session->flashdata('success')): ?>
+        <p style="color:green"><?= $this->session->flashdata('success') ?></p>
+          <?php endif; ?>
 
-          <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
-          <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>
-          <script src="?v=1.1.0" type="text/javascript"></script>
-          '></iframe>
-      </div>
-      <div class="tab-pane" id="code-forms-simple">
-        <div class="position-relative p-4 pb-2">
-          <a class="btn btn-sm bg-gradient-dark position-absolute end-4 mt-3" onclick="copyCode(this);" href="javascript:;"><i class="fas fa-copy text-sm me-1"></i> Copy</a>
-  <figure class="highlight"><pre><code class="language-html" data-lang="html">  <span class="nt">&lt;section&gt;</span>
-  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"container py-4"</span><span class="nt">&gt;</span>
-    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row"</span><span class="nt">&gt;</span>
-      <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-lg-7 mx-auto d-flex justify-content-center flex-column"</span><span class="nt">&gt;</span>
-        <span class="nt">&lt;h3</span> <span class="na">class=</span><span class="s">"text-center"</span><span class="nt">&gt;</span>Contact us<span class="nt">&lt;/h3&gt;</span>
-        <span class="nt">&lt;form</span> <span class="na">role=</span><span class="s">"form"</span> <span class="na">id=</span><span class="s">"contact-form"</span> <span class="na">method=</span><span class="s">"post"</span> <span class="na">autocomplete=</span><span class="s">"off"</span><span class="nt">&gt;</span>
-          <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"card-body"</span><span class="nt">&gt;</span>
-            <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row"</span><span class="nt">&gt;</span>
-              <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-md-6"</span><span class="nt">&gt;</span>
-                <span class="nt">&lt;label&gt;</span>First Name<span class="nt">&lt;/label&gt;</span>
-                <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"input-group mb-4"</span><span class="nt">&gt;</span>
-                  <span class="nt">&lt;input</span> <span class="na">class=</span><span class="s">"form-control"</span> <span class="na">placeholder=</span><span class="s">""</span> <span class="na">aria-label=</span><span class="s">"First Name..."</span> <span class="na">type=</span><span class="s">"text"</span> <span class="nt">&gt;</span>
-                <span class="nt">&lt;/div&gt;</span>
-              <span class="nt">&lt;/div&gt;</span>
-              <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-md-6 ps-2"</span><span class="nt">&gt;</span>
-                <span class="nt">&lt;label&gt;</span>Last Name<span class="nt">&lt;/label&gt;</span>
-                <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"input-group"</span><span class="nt">&gt;</span>
-                  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">class=</span><span class="s">"form-control"</span> <span class="na">placeholder=</span><span class="s">""</span> <span class="na">aria-label=</span><span class="s">"Last Name..."</span> <span class="nt">&gt;</span>
-                <span class="nt">&lt;/div&gt;</span>
-              <span class="nt">&lt;/div&gt;</span>
-            <span class="nt">&lt;/div&gt;</span>
-            <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"mb-4"</span><span class="nt">&gt;</span>
-              <span class="nt">&lt;label&gt;</span>Email Address<span class="nt">&lt;/label&gt;</span>
-              <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"input-group"</span><span class="nt">&gt;</span>
-                <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"email"</span> <span class="na">class=</span><span class="s">"form-control"</span> <span class="na">placeholder=</span><span class="s">""</span> <span class="nt">&gt;</span>
-              <span class="nt">&lt;/div&gt;</span>
-            <span class="nt">&lt;/div&gt;</span>
-            <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"form-group mb-4"</span><span class="nt">&gt;</span>
-              <span class="nt">&lt;label&gt;</span>Your message<span class="nt">&lt;/label&gt;</span>
-              <span class="nt">&lt;textarea</span> <span class="na">name=</span><span class="s">"message"</span> <span class="na">class=</span><span class="s">"form-control"</span> <span class="na">id=</span><span class="s">"message"</span> <span class="na">rows=</span><span class="s">"4"</span><span class="nt">&gt;&lt;/textarea&gt;</span>
-            <span class="nt">&lt;/div&gt;</span>
-            <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row"</span><span class="nt">&gt;</span>
-              <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-md-12"</span><span class="nt">&gt;</span>
-                <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"form-check form-switch mb-4"</span><span class="nt">&gt;</span>
-                  <span class="nt">&lt;input</span> <span class="na">class=</span><span class="s">"form-check-input"</span> <span class="na">type=</span><span class="s">"checkbox"</span> <span class="na">id=</span><span class="s">"flexSwitchCheckDefault"</span> <span class="na">checked=</span><span class="s">""</span><span class="nt">&gt;</span>
-                  <span class="nt">&lt;label</span> <span class="na">class=</span><span class="s">"form-check-label"</span> <span class="na">for=</span><span class="s">"flexSwitchCheckDefault"</span><span class="nt">&gt;</span>I agree to the <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"javascript:;"</span> <span class="na">class=</span><span class="s">"text-dark"</span><span class="nt">&gt;&lt;u&gt;</span>Terms and Conditions<span class="nt">&lt;/u&gt;&lt;/a&gt;</span>.<span class="nt">&lt;/label&gt;</span>
-                <span class="nt">&lt;/div&gt;</span>
-              <span class="nt">&lt;/div&gt;</span>
-              <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-md-12"</span><span class="nt">&gt;</span>
-                <span class="nt">&lt;button</span> <span class="na">type=</span><span class="s">"submit"</span> <span class="na">class=</span><span class="s">"btn bg-gradient-dark w-100"</span><span class="nt">&gt;</span>Send Message<span class="nt">&lt;/button&gt;</span>
-              <span class="nt">&lt;/div&gt;</span>
-            <span class="nt">&lt;/div&gt;</span>
-          <span class="nt">&lt;/div&gt;</span>
-        <span class="nt">&lt;/form&gt;</span>
-      <span class="nt">&lt;/div&gt;</span>
-    <span class="nt">&lt;/div&gt;</span>
-  <span class="nt">&lt;/div&gt;</span>
-<span class="nt">&lt;/section&gt;</span>
+          <?php if ($this->session->flashdata('error')): ?>
+              <p style="color:red"><?= $this->session->flashdata('error') ?></p>
+          <?php endif; ?>
 
-  </code></pre></figure>
-        </div>
-      </div>
-    </div>
-  </div>
+          <?= validation_errors('<p style="color:red">','</p>') ?>
+
+         <form role="form" id="contact-form" method="post" action="<?= base_url('contact/send') ?>" autocomplete="off">
+          <div class="card-body">
+<div class="mb-4">
+  <label for="nama" class="form-label">Nama Lengkap</label>
+  <input
+    type="text"
+    id="nama"
+    name="nama"
+    class="form-control"
+    placeholder="Masukkan nama lengkap Anda"
+    value="<?= set_value('nama'); ?>"
+  >
 </div>
 
+<div class="mb-4">
+  <label for="email" class="form-label">Email</label>
+  <input
+    type="email"
+    id="email"
+    name="email"
+    class="form-control"
+    placeholder="Masukkan email Anda"
+    value="<?= set_value('email'); ?>"
+  >
+</div>
+<div class="mb-4">
+  <label for="nama" class="form-label">No Telepon</label>
+  <input
+    type="text"
+    id="telepon"
+    name="telepon"
+    class="form-control"
+    placeholder="Masukkan nomor telepon Anda"
+    value="<?= set_value('telepon'); ?>"
+  >
+</div>
+<div class="mb-4">
+  <label for="pesan" class="form-label">Pesan</label>
+  <textarea
+    name="pesan"
+    id="pesan"
+    class="form-control"
+    rows="4"
+    placeholder="Bagaimana kami dapat membantu Anda?"
+  ><?= set_value('pesan'); ?></textarea>
+</div>
+
+            <button type="submit" class="btn bg-gradient-dark w-100 mb-3">Kirim Pesan ✈️</button>
+
+            <!-- ==== BUTTON WHATSAPP ==== -->
+            <div class="text-center mt-2">
+              <a href="https://wa.me/6289654641336" target="_blank"
+                 class="btn btn-success w-100"
+                 style="border-radius: 12px; font-size: 16px; padding: 10px;">
+                Hubungi via WhatsApp 📱
+              </a>
+            </div>
+
+          </div>
+        </form>
+      </div>
+
+      <!-- ==== INFO KONTAK + MAP SAMPING ==== -->
+      <div class="col-lg-5">
+        <div class="row">
+
+          <!-- Informasi Kontak -->
+          <div class="col-12 mb-3">
+            <div class="p-3" style="background:#fff; border-radius:18px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+              <h5>Informasi Perusahaan</h5>
+              <p><strong>Telepon</strong><br> +6289654641336</p>
+              <p><strong>Email</strong><br> maliki.edulogi@gmail.com</p>
+              <p><strong>Alamat</strong><br> CV Maliki Edulogi Nusantara, Grand Kencana Residen Malang Blok B7 No. 15, Rekesan, Mendalanwangi, Kec. Wagir, Kabupaten Malang, Jawa Timur 65158</p>
+            </div>
+          </div>
+
+          <!-- Google Maps Embed -->
+          <div class="col-12">
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.303977792391!2d112.5877159!3d-8.028663599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd629a7ae322ba1%3A0x34d7ba85e5d44c12!2sCV.%20Maliki%20Edulogi%20Nusantara!5e0!3m2!1sid!2sid!4v1702387200000!5m2!1sid!2sid" 
+  width="100%" 
+  height="300" 
+  style="border:0;border-radius:12px;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+          </div>
+
         </div>
       </div>
-    </div>
 
-  
+    </div>
+  </div>
+</section>
     
-  <footer class="footer pt-5 mt-5">
+ <footer class="footer pt-5 mt-5 text-center">
   <hr class="horizontal dark mb-5">
   <div class="container">
-    <div class=" row">
-      <div class="col-md-3 mb-4 ms-auto">
-        <div>
-          <h6 class="text-gradient text-primary font-weight-bolder">Soft UI Design 3 System</h6>
-        </div>
-        <div>
-          <h6 class="mt-3 mb-2 opacity-8">Social</h6>
-          <ul class="d-flex flex-row ms-n3 nav">
-            <li class="nav-item">
-              <a class="nav-link pe-1" href="https://www.facebook.com/CreativeTim/" target="_blank">
-                <i class="fab fa-facebook text-lg opacity-8"></i>
-              </a>
-            </li>
+    <div class="row justify-content-center">
 
-            <li class="nav-item">
-              <a class="nav-link pe-1" href="https://twitter.com/creativetim" target="_blank">
-                <i class="fab fa-twitter text-lg opacity-8"></i>
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link pe-1" href="https://dribbble.com/creativetim" target="_blank">
-                <i class="fab fa-dribbble text-lg opacity-8"></i>
-              </a>
-            </li>
-
-
-            <li class="nav-item">
-              <a class="nav-link pe-1" href="https://github.com/creativetimofficial" target="_blank">
-                <i class="fab fa-github text-lg opacity-8"></i>
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link pe-1" href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w" target="_blank">
-                <i class="fab fa-youtube text-lg opacity-8"></i>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-
-
-      <div class="col-md-2 col-sm-6 col-6 mb-4">
-        <div>
-          <h6 class="text-gradient text-primary text-sm">Company</h6>
-          <ul class="flex-column ms-n3 nav">
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/presentation" target="_blank">
-                About Us
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/templates/free" target="_blank">
-                Freebies
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/templates/premium" target="_blank">
-                Premium Tools
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/blog" target="_blank">
-                Blog
-              </a>
-            </li>
-          </ul>
-        </div>
+      <div class="col-md-3 mb-4">
+        <h6 class="text-gradient text-primary font-weight-bolder">Maliki Edulogi Nusantara</h6>
+        <p>Dengan pengalaman lebih dari 7 Tahun, kami berkomitmen memberikan layanan terbaik dan terpercaya untuk anda.</p>
       </div>
 
       <div class="col-md-2 col-sm-6 col-6 mb-4">
-        <div>
-          <h6 class="text-gradient text-primary text-sm">Resources</h6>
-          <ul class="flex-column ms-n3 nav">
-            <li class="nav-item">
-              <a class="nav-link" href="https://iradesign.io/" target="_blank">
-                Illustrations
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/bits" target="_blank">
-                Bits & Snippets
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/affiliates/new" target="_blank">
-                Affiliate Program
-              </a>
-            </li>
-          </ul>
-        </div>
+        <h6 class="text-gradient text-primary text-sm">Perusahaan</h6>
+        <ul class="nav flex-column align-items-center">
+          <li class="nav-item"><a class="nav-link" href="#home">Beranda</a></li>
+          <li class="nav-item"><a class="nav-link" href="#service">Layanan Kami</a></li>
+           <li class="nav-item"><a class="nav-link" href="#service">Project Kami </a></li>
+        </ul>
       </div>
 
       <div class="col-md-2 col-sm-6 col-6 mb-4">
-        <div>
-          <h6 class="text-gradient text-primary text-sm">Help & Support</h6>
-          <ul class="flex-column ms-n3 nav">
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/contact-us" target="_blank">
-                Contact Us
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/knowledge-center" target="_blank">
-                Knowledge Center
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://services.creative-tim.com/?ref=ct-soft-ui-footer" target="_blank">
-                Custom Development
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/sponsorships" target="_blank">
-                Sponsorships
-              </a>
-            </li>
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto">
-        <div>
-          <h6 class="text-gradient text-primary text-sm">Legal</h6>
-          <ul class="flex-column ms-n3 nav">
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/terms" target="_blank">
-                Terms &amp; Conditions
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/privacy" target="_blank">
-                Privacy Policy
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/license" target="_blank">
-                Licenses (EULA)
-              </a>
-            </li>
-          </ul>
-        </div>
+        <h6 class="text-gradient text-primary text-sm">Hubungi Kami</h6>
+        <ul class="nav flex-column align-items-center">
+          <li class="nav-item"><a class="nav-link" href="#contact">Kontak</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Pusat Bantuan</a></li>
+          <li class="nav-item"><a class="nav-link" href="mailto:maliki.edulogi@gmail.com">maliki.edulogi@gmail.com</a></li>
+        </ul>
       </div>
 
       <div class="col-12">
-        <div class="text-center">
-          <p class="my-4 text-sm">
-            All rights reserved. Copyright © <script>document.write(new Date().getFullYear())</script> Maliki Edulogi Nusantara by <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
-          </p>
-        </div>
+        <p class="my-4 text-sm">
+          All rights reserved. Copyright ©
+          <script>document.write(new Date().getFullYear())</script>
+          Maliki Edulogi Nusantara by 
+          <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+        </p>
       </div>
+
     </div>
   </div>
 </footer>
+
 
 <!--   Core JS Files   -->
 <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
