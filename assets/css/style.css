@@ -1,0 +1,82 @@
+ #service { background: linear-gradient(180deg,#f7fbff,#ffffff); position: relative; }
+    #service::before {
+      content:""; position:absolute; width:420px; height:420px;
+      background:radial-gradient(circle,rgba(13,110,253,.18),transparent 70%);
+      top:-120px; left:-120px; z-index:0;
+    }
+
+    .service-badge {
+      display:inline-block; padding:6px 16px; font-size:12px; font-weight:700;
+      letter-spacing:1px; text-transform:uppercase; color:#fff;
+      background:linear-gradient(135deg,#0d6efd,#0b5ed7); border-radius:20px;
+      margin-bottom:12px;
+    }
+
+    .service-card {
+      background:#fff; border-radius:20px; padding:26px; height:100%;
+      border:1px solid #e6efff; transition:.4s ease; position:relative; overflow:hidden;
+      cursor:pointer;
+    }
+    .service-card::after {
+      content:""; position:absolute; inset:0;
+      background:linear-gradient(120deg,transparent,rgba(13,110,253,.12),transparent);
+      opacity:0; transition:.4s;
+    }
+    .service-card:hover::after { opacity:1; }
+    .service-card:hover {
+      transform:translateY(-8px);
+      box-shadow:0 25px 60px rgba(13,110,253,.25);
+      border-color:#0d6efd;
+    }
+    .service-icon {
+      width:56px; height:56px; border-radius:16px;
+      background:linear-gradient(135deg,#0d6efd,#0b5ed7);
+      display:flex; align-items:center; justify-content:center;
+      color:#fff; font-size:26px; box-shadow:0 10px 25px rgba(13,110,253,.45);
+      margin-bottom:16px;
+    }
+
+    /* ===== BRAND CARD KANAN (PUTIH MODERN) ===== */
+    .brand-card-modern {
+      border-radius:20px; background:#ffffff;
+      box-shadow:0 10px 30px rgba(13,110,253,0.1);
+      position:relative; overflow:hidden;
+      transition: transform 0.4s ease, box-shadow 0.4s ease, border-color 0.4s ease;
+      cursor:pointer; padding:2rem 1.5rem;
+    }
+    .brand-card-modern:hover {
+      transform:translateY(-8px) scale(1.02);
+      box-shadow:0 20px 50px rgba(13,110,253,0.15);
+      border:1px solid #0d6efd;
+    }
+    .brand-overlay {
+      position:absolute; inset:0;
+      background:
+        radial-gradient(circle at top right, rgba(13,110,253,0.05), transparent 50%),
+        radial-gradient(circle at bottom left, rgba(0,0,0,0.03), transparent 55%);
+      pointer-events:none;
+    }
+    .brand-icon {
+      width:70px; height:70px; border-radius:16px;
+      background:linear-gradient(135deg,#0d6efd,#0b5ed7);
+      display:flex; align-items:center; justify-content:center;
+      font-size:32px; margin:0 auto 16px; color:#fff;
+      transition: transform 0.3s ease;
+    }
+    .brand-card-modern:hover .brand-icon {
+      transform: scale(1.1) rotate(5deg);
+    }
+    .brand-card-modern .btn {
+      transition: transform 0.3s ease, background 0.3s ease, color 0.3s ease;
+    }
+    .brand-card-modern .btn:hover {
+      transform: scale(1.05); background:#0d6efd; color:#fff;
+    }
+    .brand-card-modern ul li {
+      margin-bottom:6px; color:#555;
+      transition: transform 0.3s ease, color 0.3s ease;
+      list-style:none;
+    }
+    .brand-card-modern ul li:hover {
+      transform: translateX(4px); color:#0d6efd;
+    }
