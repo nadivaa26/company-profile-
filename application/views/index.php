@@ -458,27 +458,34 @@ Maliki Edulogi Nusantara
   </div>
 </section>
 <!-- HERO / HOME -->
-<section id="home" class="my-5 py-5 scroll-mt-36">
+<section id="home" class="my-6 py-6 scroll-mt-45 hero-section">
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-6">
-        <h2 class="text-dark mb-0">Layanan Terbaik untuk Kebutuhan Operasional & Digital Anda</h2>
+        <h2 class="text-dark mb-0">
+          Layanan Terbaik untuk Kebutuhan Operasional & Digital Anda
+        </h2>
         <p class="lead">
           Dari percetakan harian hingga pengembangan sistem digital.
           Maliki Edulogi Nusantara hadir untuk mendukung Instansi, Sekolah, Bisnis,
           dan Perusahaan semakin produktif.
         </p>
-        <a href="#service" class="btn btn-dark px-4 py-2 mt-3 rounded-3">
-          Lihat Layanan Kami
-        </a>
+
+        <!-- TOMBOL -->
+        <a href="#service" class="btn btn-primary px-4 py-2 mt-3 rounded-3">
+  Lihat Layanan Kami
+</a>
+
+
       </div>
     </div>
   </div>
 </section>
 
 
+
 <!-- ABOUT -->
-<section id="about" class="my-5 py-5 scroll-mt-36">
+<section id="about" class="my-6 py-6 scroll-mt-40">
   <div class="container">
 
     <div class="row justify-content-center text-center">
@@ -543,7 +550,7 @@ Maliki Edulogi Nusantara
 </section>
 
 <!--product-->
-<section id="service" class="py-5 my-5 position-relative overflow-hidden">
+<section id="service" class="py-5 position-relative overflow-hidden">
   <style>
     #service { background: linear-gradient(180deg,#f7fbff,#ffffff); position: relative; }
     #service::before {
@@ -627,6 +634,23 @@ Maliki Edulogi Nusantara
     .brand-card-modern ul li:hover {
       transform: translateX(4px); color:#0d6efd;
     }
+    #service::before {
+  content: "";
+  position: absolute;
+  top: -200px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 900px;
+  height: 900px;
+  background: radial-gradient(circle,
+    rgba(13,110,253,0.35),
+    rgba(13,110,253,0.15),
+    transparent 70%
+  );
+  filter: blur(140px);
+  z-index: 1;
+}
+
   </style>
 
   <div class="container position-relative" style="z-index:1">
