@@ -462,7 +462,7 @@ Maliki Edulogi Nusantara
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-6">
-        <h2 class="text-dark mb-0">
+        <h2 class="text-primary mb-0">
           Layanan Terbaik untuk Kebutuhan Operasional & Digital Anda
         </h2>
         <p class="lead">
@@ -490,7 +490,7 @@ Maliki Edulogi Nusantara
 
     <div class="row justify-content-center text-center">
       <div class="col-lg-6">
-        <h2 class="text-dark mb-0">Tentang Kami</h2>
+        <h2 class="text-primary mb-0">Tentang Kami</h2>
         <p class="lead">
           Kami hadir untuk memberikan layanan pengadaan barang dan jasa 
           yang cepat, tepat, dan profesional sesuai kebutuhan mitra.
@@ -502,7 +502,7 @@ Maliki Edulogi Nusantara
     <div class="row justify-content-center mb-4 reveal">
       <div class="col-lg-9 z-index-2 mx-auto py-4 px-4 blur shadow-blur gradient-card rounded-4">
         <div class="text-center">
-          <h3 class="text-gradient-dark mb-3">Alasan Memilih Kami</h3>
+          <h3 class="text-primary mb-3">Alasan Memilih Kami</h3>
         </div>
       </div>
     </div>
@@ -510,7 +510,7 @@ Maliki Edulogi Nusantara
     <div class="row justify-content-center g-4">
       <div class="col-md-3">
         <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Standar Kualitas Tinggi</h4>
+          <h4 class="text-primary">Standar Kualitas Tinggi</h4>
           <p class="text-sm mt-2">
             Setiap layanan dijalankan dengan prosedur terukur untuk memastikan hasil yang konsisten.
           </p>
@@ -519,7 +519,7 @@ Maliki Edulogi Nusantara
 
       <div class="col-md-3">
         <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Layanan Terintegrasi</h4>
+          <h4 class="text-primary">Layanan Terintegrasi</h4>
           <p class="text-sm mt-2">
             Solusi lengkap dalam satu penyedia layanan untuk meningkatkan efisiensi operasional.
           </p>
@@ -528,7 +528,7 @@ Maliki Edulogi Nusantara
 
       <div class="col-md-3">
         <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Respon Teknis Cepat</h4>
+          <h4 class="text-primary">Respon Teknis Cepat</h4>
           <p class="text-sm mt-2">
             Tim teknis kami siap memberikan dukungan cepat agar operasional tetap berjalan.
           </p>
@@ -537,7 +537,7 @@ Maliki Edulogi Nusantara
 
       <div class="col-md-3">
         <div class="p-3 text-center blur shadow-blur rounded-4 h-100 gradient-card">
-          <h4 class="text-gradient-dark">Tim Ahli Berpengalaman</h4>
+          <h4 class="text-primary">Tim Ahli Berpengalaman</h4>
           <p class="text-sm mt-2">
             Didukung oleh profesional percetakan, teknisi printer, dan developer software.
           </p>
@@ -551,115 +551,13 @@ Maliki Edulogi Nusantara
 
 <!--product-->
 <section id="service" class="py-5 position-relative overflow-hidden">
-  <style>
-    #service { background: linear-gradient(180deg,#f7fbff,#ffffff); position: relative; }
-    #service::before {
-      content:""; position:absolute; width:420px; height:420px;
-      background:radial-gradient(circle,rgba(13,110,253,.18),transparent 70%);
-      top:-120px; left:-120px; z-index:0;
-    }
-
-    .service-badge {
-      display:inline-block; padding:6px 16px; font-size:12px; font-weight:700;
-      letter-spacing:1px; text-transform:uppercase; color:#fff;
-      background:linear-gradient(135deg,#0d6efd,#0b5ed7); border-radius:20px;
-      margin-bottom:12px;
-    }
-
-    .service-card {
-      background:#fff; border-radius:20px; padding:26px; height:100%;
-      border:1px solid #e6efff; transition:.4s ease; position:relative; overflow:hidden;
-      cursor:pointer;
-    }
-    .service-card::after {
-      content:""; position:absolute; inset:0;
-      background:linear-gradient(120deg,transparent,rgba(13,110,253,.12),transparent);
-      opacity:0; transition:.4s;
-    }
-    .service-card:hover::after { opacity:1; }
-    .service-card:hover {
-      transform:translateY(-8px);
-      box-shadow:0 25px 60px rgba(13,110,253,.25);
-      border-color:#0d6efd;
-    }
-    .service-icon {
-      width:56px; height:56px; border-radius:16px;
-      background:linear-gradient(135deg,#0d6efd,#0b5ed7);
-      display:flex; align-items:center; justify-content:center;
-      color:#fff; font-size:26px; box-shadow:0 10px 25px rgba(13,110,253,.45);
-      margin-bottom:16px;
-    }
-
-    /* ===== BRAND CARD KANAN (PUTIH MODERN) ===== */
-    .brand-card-modern {
-      border-radius:20px; background:#ffffff;
-      box-shadow:0 10px 30px rgba(13,110,253,0.1);
-      position:relative; overflow:hidden;
-      transition: transform 0.4s ease, box-shadow 0.4s ease, border-color 0.4s ease;
-      cursor:pointer; padding:2rem 1.5rem;
-    }
-    .brand-card-modern:hover {
-      transform:translateY(-8px) scale(1.02);
-      box-shadow:0 20px 50px rgba(13,110,253,0.15);
-      border:1px solid #0d6efd;
-    }
-    .brand-overlay {
-      position:absolute; inset:0;
-      background:
-        radial-gradient(circle at top right, rgba(13,110,253,0.05), transparent 50%),
-        radial-gradient(circle at bottom left, rgba(0,0,0,0.03), transparent 55%);
-      pointer-events:none;
-    }
-    .brand-icon {
-      width:70px; height:70px; border-radius:16px;
-      background:linear-gradient(135deg,#0d6efd,#0b5ed7);
-      display:flex; align-items:center; justify-content:center;
-      font-size:32px; margin:0 auto 16px; color:#fff;
-      transition: transform 0.3s ease;
-    }
-    .brand-card-modern:hover .brand-icon {
-      transform: scale(1.1) rotate(5deg);
-    }
-    .brand-card-modern .btn {
-      transition: transform 0.3s ease, background 0.3s ease, color 0.3s ease;
-    }
-    .brand-card-modern .btn:hover {
-      transform: scale(1.05); background:#0d6efd; color:#fff;
-    }
-    .brand-card-modern ul li {
-      margin-bottom:6px; color:#555;
-      transition: transform 0.3s ease, color 0.3s ease;
-      list-style:none;
-    }
-    .brand-card-modern ul li:hover {
-      transform: translateX(4px); color:#0d6efd;
-    }
-    #service::before {
-  content: "";
-  position: absolute;
-  top: -200px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 900px;
-  height: 900px;
-  background: radial-gradient(circle,
-    rgba(13,110,253,0.35),
-    rgba(13,110,253,0.15),
-    transparent 70%
-  );
-  filter: blur(140px);
-  z-index: 1;
-}
-
-  </style>
-
   <div class="container position-relative" style="z-index:1">
     <div class="row g-4 align-items-start">
 
       <!-- KIRI: SERVICES -->
       <div class="col-lg-6">
         <span class="service-badge">Our Services</span>
-        <h2 class="fw-bold mb-3">Solusi Terintegrasi untuk Bisnis & Institusi</h2>
+        <h2 class="text-primary">Solusi Terintegrasi untuk Bisnis & Institusi</h2>
         <p class="text-muted mb-4">
           Maliki Edulogi Nusantara hadir sebagai mitra strategis yang menyediakan
           layanan teknologi, periklanan, hingga percetakan untuk mendukung
@@ -669,7 +567,7 @@ Maliki Edulogi Nusantara
           <div class="col-md-6">
             <div class="service-card">
               <div class="service-icon">💻</div>
-              <h5 class="fw-bold mb-2">Jasa Software Development</h5>
+              <h5 class="text-primary">Jasa Software Development</h5>
               <p>
                 Kami melayani software development yang dirancang khusus untuk
                 berbagai kebutuhan industri. Tim developer kami berpengalaman
@@ -681,7 +579,7 @@ Maliki Edulogi Nusantara
           <div class="col-md-6">
             <div class="service-card">
               <div class="service-icon">📢</div>
-              <h5 class="fw-bold mb-2">Periklanan Media Cetak & Elektronik</h5>
+              <h5 class="text-primary">Periklanan Media Cetak & Elektronik</h5>
               <p>
                 Layanan pemasaran komprehensif untuk mendukung promosi berbagai
                 institusi. Kami bekerja sama dengan media terkemuka seperti
@@ -692,7 +590,7 @@ Maliki Edulogi Nusantara
           <div class="col-md-6">
             <div class="service-card">
               <div class="service-icon">🖨️</div>
-              <h5 class="fw-bold mb-2">Perbaikan Printer & PC</h5>
+              <h5 class="text-primary">Perbaikan Printer & PC</h5>
               <p>
                 Layanan maintenance profesional mencakup perawatan, pengecekan,
                 hingga perbaikan komputer, laptop, printer, dan perangkat
@@ -703,7 +601,7 @@ Maliki Edulogi Nusantara
           <div class="col-md-6">
             <div class="service-card">
               <div class="service-icon">📄</div>
-              <h5 class="fw-bold mb-2">Percetakan & Digital Printing</h5>
+              <h5 class="text-primary">Percetakan & Digital Printing</h5>
               <p>
                 Solusi percetakan berkualitas tinggi mulai dari dokumen
                 administrasi, fotokopi, map dinas, hingga buku saku dan
@@ -720,8 +618,8 @@ Maliki Edulogi Nusantara
           <div class="brand-overlay"></div>
           <div class="text-center position-relative p-4">
             <div class="brand-icon">🚀</div>
-            <h4 class="fw-bold mb-1">Lets Choice</h4>
-            <p class="fw-semibold mb-2">Maliki Edulogi Nusantara</p>
+            <h4 class="fw-bold text-primary mb-1">Lets Choice</h4>
+            <p class="fw-semibold text-primary mb-2">Maliki Edulogi Nusantara</p>
             <p class="small opacity-75 mb-3">
               Partner strategis yang menghadirkan solusi terintegrasi untuk institusi, bisnis, dan pendidikan.
             </p>
@@ -748,8 +646,8 @@ Maliki Edulogi Nusantara
     <div class="row">
       <div class="row justify-content-center text-center my-sm-5">
         <div class="col-lg-6">
-          <h2 class="text-dark mb-0">Temukan Layanan Terbaik bersama kami</h2>
-          <h2 class="text-primary text-gradient">Maliki Edulogi Nusantara</h2>
+          <h2 class="text-primary mb-0">Temukan Layanan Terbaik bersama kami</h2>
+          <h2 class="text-primary">Maliki Edulogi Nusantara</h2>
           <p class="lead">Kami berkomitmen memberikan solusi yang tepat, efisien, dan dapat diandalkan untuk setiap kebutuhan Anda. Setiap layanan dirancang dengan standar profesional guna memastikan hasil yang konsisten dan berkualitas. </p>
         </div>
       </div>
@@ -759,7 +657,7 @@ Maliki Edulogi Nusantara
      <section class="py-5" id="project">
   <div class="container">
     <div class="row mb-4 text-center">
-      <h2 class="fw-bold text-dark">Project Terbaru Kami</h2>
+      <h2 class="fw-bold text-primary">Project Terbaru Kami</h2>
       <p class="text-muted">Semua yang anda butuhkan, dari website sampai promosi. di satu tempat</p>
     </div>
     <div class="row g-4">
@@ -770,7 +668,7 @@ Maliki Edulogi Nusantara
             <img src="assets/img/dummy1.png" class="premium-img">
           </div>
           <div class="premium-body">
-            <h5>Website Kalima Test</h5>
+            <h5 class="text-primary">Website Kalima Test</h5>
             <p>Sistem ujian berbasis website yang memudahkan pelaksaaan tes online secara efisien dan real time.</p>
             <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
@@ -783,7 +681,7 @@ Maliki Edulogi Nusantara
             <img src="assets/img/dummy1.png" class="premium-img">
           </div>
           <div class="premium-body">
-            <h5>Perbaikan & Maintenance Printer</h5>
+            <h5 class="text-primary">Perbaikan & Maintenance Printer</h5>
             <p>Service printer sampai performanya balik ngebut lagi.</p>
             <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
@@ -796,7 +694,7 @@ Maliki Edulogi Nusantara
             <img src="assets/img/dummy1.png" class="premium-img">
           </div>
           <div class="premium-body">
-            <h5>Jasa Periklanan Media Cetak dan Elektronik </h5>
+            <h5 class="text-primary">Jasa Periklanan Media Cetak dan Elektronik </h5>
             <p>Solusi periklanan dan media cetak untuk bikin brand Anda lebih terlihat, lebih diingat, dan lebih dipercaya.</p>
             <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
@@ -812,7 +710,7 @@ Maliki Edulogi Nusantara
             <img src="assets/img/dummy1.png" class="premium-img">
           </div>
           <div class="premium-body">
-            <h5>Percetakan dan Digital Printing</h5>
+            <h5 class="text-primary">Percetakan dan Digital Printing</h5>
             <p>Layanan percetakan dan digital printing berkualitas untuk kebutuhan promosi, branding, dan operasional bisnis anda</p>
             <a href="#contact" class="premium-link">Diskusikan Project Serupa →</a>
           </div>
@@ -827,7 +725,7 @@ Maliki Edulogi Nusantara
     <div class="row">
       <!-- ==== FORM ==== -->
       <div class="col-lg-7 d-flex justify-content-center flex-column">
-        <h3 class="text-center mb-4">Hubungi Kami</h3>
+        <h3 class="text-center mb-4 text-primary">Hubungi Kami</h3>
         <?php if ($this->session->flashdata('success')): ?>
         <p style="color:green"><?= $this->session->flashdata('success') ?></p>
           <?php endif; ?>
@@ -841,7 +739,7 @@ Maliki Edulogi Nusantara
          <form role="form" id="contact-form" method="post" action="<?= base_url('contact/send') ?>" autocomplete="off">
           <div class="card-body">
 <div class="mb-4">
-  <label for="nama" class="form-label">Nama Lengkap</label>
+  <label for="nama" class="form-label text-primary">Nama Lengkap</label>
   <input
     type="text"
     id="nama"
@@ -853,7 +751,7 @@ Maliki Edulogi Nusantara
 </div>
 
 <div class="mb-4">
-  <label for="email" class="form-label">Email</label>
+  <label for="email" class="form-label text-primary">Email</label>
   <input
     type="email"
     id="email"
@@ -864,7 +762,7 @@ Maliki Edulogi Nusantara
   >
 </div>
 <div class="mb-4">
-  <label for="nama" class="form-label">No Telepon</label>
+  <label for="nama" class="form-label text-primary">No Telepon</label>
   <input
     type="text"
     id="telepon"
@@ -875,7 +773,7 @@ Maliki Edulogi Nusantara
   >
 </div>
 <div class="mb-4">
-  <label for="pesan" class="form-label">Pesan</label>
+  <label for="pesan" class="form-label text-primary">Pesan</label>
   <textarea
     name="pesan"
     id="pesan"
@@ -907,7 +805,7 @@ Maliki Edulogi Nusantara
           <!-- Informasi Kontak -->
           <div class="col-12 mb-3">
             <div class="p-3" style="background:#fff; border-radius:18px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-              <h5>Informasi Perusahaan</h5>
+              <h5 class="text-primary">Informasi Perusahaan</h5>
               <p><strong>Telepon</strong><br> +6289654641336</p>
               <p><strong>Email</strong><br> maliki.edulogi@gmail.com</p>
               <p><strong>Alamat</strong><br> CV Maliki Edulogi Nusantara, Grand Kencana Residen Malang Blok B7 No. 15, Rekesan, Mendalanwangi, Kec. Wagir, Kabupaten Malang, Jawa Timur 65158</p>
